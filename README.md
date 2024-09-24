@@ -5,9 +5,10 @@ These scripts are loosely based on the boxtopABA scripts (which were written in 
 The scripts store basketball box scores in the BOXTOP format that I have developed over the past 10+ years for ABA, NBA, and NCAA box scores.
 
 boxtop2Text.py - Converts a BOXTOP file into a .csv file that is suitable for cutting-and-pasting into a spreadsheet (like Excel) to make it easier to cut-and-paste the same data into a word processor (like Word).
-boxtopCheck.py - Checks a BOXTOP file for inconsistencies
-boxtopGameLog.py - Creates a game log for an individual player from a BOXTOP file
+boxtopCheck.py - Checks a BOXTOP file for inconsistencies.
+boxtopGameLog.py - Creates a game log for an individual player from a BOXTOP file.
 boxtopNCAA.py - Creates a BOXTOP file by prompting the user to enter stats and other information from a box score. Easy to modify to adjust to the format of the box score in the original source.
+boxtopTeamGameLog.py - Create a game log for a single team from a BOXTOP file.
 
 BOXTOP format
 
