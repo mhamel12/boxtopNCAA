@@ -1,0 +1,125 @@
+Boxtop - Flexible Basketball Boxscore Format
+
+
+This format is designed to allow storage of multiple boxscores in a single file. 
+
+The concept for this format is loosely based on Retrosheet's baseball "Box Score Event Files" (BSEF format; see http://www.retrosheet.org for details) but has been adapted for basketball.
+
+What follows is a list of identification fields. Anything listed in ALL CAPS is variable data. The .csv files created by boxtopNCAA.py strictly follow this format, but that is not required. Tools written to parse this format should be written such that the order of the fields does not matter, and missing fields must be tolerated.
+
+=====================================
+
+1. Format fields
+
+
+gamebxt   (sentinel to denote the start of a new boxscore)
+version,NUMBER   (NUMBER always 1 for now)
+
+=====================================
+
+2. Information fields
+
+info,date,MONTH/DAY/FOURDIGITYEAR
+info,dayofweek,DAY OF THE WEEK
+info,rteam,ROADTEAMFULLNAME
+info,hteam,HOMETEAMFULLNAME
+info,neutralsite,YES or NO (if omitted, or blank, interpret as "NO")
+info,title,OPTIONAL USE FOR PLAYOFF GAMES (example: 1964 NBA Finals Game 1)
+info,arena,ARENA
+info,city,CITY
+info,state,STATE
+info,country,COUNTRY
+info,attendance,ATT
+info,ref,REFEREE NAME (one line per ref)
+info,starttime,00:00PM
+info,timezone,ET/CT/MT/PT
+info,radio,RADIO INFORMATION
+info,tv,TELEVISION INFORMATION
+info,note,MISC NOTES ON THE BOXSCORE OR THE GAME
+info,prelim,NON-NBA GAME THAT PROCEEDED OR FOLLOWED THIS GAME (if applicable)
+info,event,SPECIAL EVENT (e.g. Bob Cousy Day, etc.)
+info,techs,TECHNICAL FOULS not included in player/coach data (e.g. Techs assessed on a team's bench)
+
+=====================================
+
+3. Coach fields
+
+coach,rteam|hteam,ID,FIRSTNAME,LASTNAME,TECHNICALFOUL
+
+*Note that "rteam|hteam" means that either rteam or hteam must appear in that location
+
+ID = format used by https://www.sports-reference.com/cbb/ (bill-walton-1)
+https://www.sports-reference.com/cbb/players/bill-walton-1.html
+For UCLA players the IDs should match exactly.
+For non-UCLA players "99" is used, so there could be incorrect duplicates of opposing players.
+
+=====================================
+
+4. Player statistics fields
+
+
+A blank indicates that that statistic is not available.
+
+stat,rteam|hteam,player,ID,FIRSTNAME,LASTNAME,MIN,FGM,FGA,FTM,FTA,3FGM,3FGA,PTS,OREB,REB,AST,PF,BLOCKS,TURNOVERS,STEALS,TECHNICALFOUL
+
+=====================================
+
+5. Team statistics fields
+
+
+tstat,rteam|hteam,MIN,FGM,FGA,FTM,FTA,FG3M,FG3A,PTS,OREB,REB,AST,PF,BLOCKS,TURNOVERS,STEALS,TEAMREBOUNDS,TECHNICALFOUL
+
+=====================================
+
+6. Linescores (quarter-by-quarter results)
+
+
+linescore,rteam|hteam,Q1,Q2,Q3,Q4,[OT],[OT2],...,:,FINAL
+
+If you only know the final score (which for pro games are obtainable from several sources, including http://www.shrpsports.com) then you can shorten the format as follows:
+
+linescore,rteam|hteam,FINAL
+
+
+=====================================
+
+7. Issues related to the box score
+
+These are manually inserted as comments. Inconsistencies or special internal notes go here. General notes should be entered as "info,note,<the note>".
+
+issue,TEXT STRING
+
+=====================================
+
+8. Sources
+
+sources,LIST OF SOURCES
+
+Common sources include:
+BG - Boston Globe
+BH - Boston Herald
+NYT - New York Times
+TSN - The Sporting News
+CY - Boston Celtics Yearbooks
+SB - Sullivan, George. The Picture History of the Boston Celtics. Indianapolis/New York: Bobbs-Merrill Company, 1981.
+G7 - Woten, Bill. Game 7: Inside the NBA s Ultimate Showdown. Self-published, 2007.
+W - NBA Finals Boxscore collection, http://webuns.chez-alice.fr/home.htm (referenced by http://www.apbr.org).
+
+
+=====================================
+
+Appendix: NBA official stats history
+1950-51 rebounds
+1951-52 minutes played
+1970-71 team turnovers
+1973-74 offensive rebounds, defensive rebounds, steals, blocked shots
+1977-78 individual turnovers
+1979-80 3pt field goals
+
+=====================================
+
+Format (c) 2014 Michael Hamel
+Last revised 06/18/2014
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
