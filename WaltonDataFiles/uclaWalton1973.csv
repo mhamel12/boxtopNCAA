@@ -1,0 +1,1552 @@
+
+gamebxt
+version,1
+info,date,11/25/1972
+info,dayofweek,Saturday
+info,rteam,Wisconsin Badgers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12452
+info,ref,Ernie Filiberti
+info,ref,Dick Schromm
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-powless-1,John,Powless,0
+stat,rteam,player,gary-anderson-99,Gary,Anderson,,3,8,0,0,,,6,,5,0,3,,,,0
+stat,rteam,player,gary-watson-99,Gary,Watson,,1,12,2,2,,,4,,2,2,2,,,,0
+stat,rteam,player,kerry-hughes-99,Kerry,Hughes,,6,10,0,0,,,12,,8,4,3,,,,0
+stat,rteam,player,lamont-weaver-99,Lamont,Weaver,,2,13,0,1,,,4,,0,1,1,,,,0
+stat,rteam,player,leon-howard-99,Leon,Howard,,7,12,5,6,,,19,,4,0,2,,,,0
+stat,rteam,player,kim-hughes-99,Kim,Hughes,,1,7,0,0,,,2,,11,1,1,,,,0
+stat,rteam,player,tim-paterick-99,Tim,Paterick,,1,4,0,0,,,2,,2,0,2,,,,0
+stat,rteam,player,marcus-mccoy-99,Marcus,McCoy,,1,4,0,0,,,2,,1,1,0,,,,0
+stat,rteam,player,bruce-mccauley-99,Bruce,McCauley,,1,3,0,0,,,2,,3,0,0,,,,0
+stat,rteam,player,bob-luchsinger-99,Bob,Luchsinger,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,kessem-grimes-99,Kessem,Grimes,,0,2,0,0,,,0,,1,0,1,,,,0
+stat,rteam,player,pat-rohan-99,Pat,Rohan,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,rick-piecenza-99,Rick,Piecenza,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,steve-wilhelm-99,Steve,Wilhelm,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,23,76,7,9,,,53,,46,9,15,,,,7,0
+linescore,rteam,27,26,:,53
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,12,3,5,,,19,,5,5,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,6,12,2,2,,,14,,6,2,3,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,13,20,0,2,,,26,,20,7,1,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,1,5,0,0,,,2,,1,5,2,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,2,5,3,6,,,7,,3,4,2,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,2,4,0,2,,,4,,2,5,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,3,4,0,0,,,6,,0,1,1,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,2,2,2,,,4,,3,1,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,8,0,0,,,6,,4,2,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,3,8,0,0,,,6,,7,0,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,1,0,0,,,0,,2,0,1,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,3,0,0,,,0,,1,1,0,,,,0
+tstat,hteam,,42,84,10,19,,,94,,60,33,14,,,,6,0
+linescore,hteam,51,43,:,94
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,12/01/1972
+info,dayofweek,Friday
+info,rteam,Bradley Braves
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12591
+info,ref,Bob Herrold
+info,ref,Charles Reed
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,joe-stowell-1,Joe,Stowell,0
+stat,rteam,player,mike-harrell-99,Mike,Harrell,,3,6,0,0,,,6,,2,1,2,,,,0
+stat,rteam,player,seymour-reed-99,Seymour,Reed,,2,6,0,0,,,4,,6,1,5,,,,0
+stat,rteam,player,mark-dohner-99,Mark,Dohner,,3,10,5,6,,,11,,6,0,1,,,,0
+stat,rteam,player,dave-klobucher-99,Dave,Klobucher,,3,7,0,0,,,6,,0,1,0,,,,0
+stat,rteam,player,henry-thomas-99,Henry,Thomas,,1,5,0,0,,,2,,0,1,2,,,,0
+stat,rteam,player,doug-shank-99,Doug,Shank,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,sam-allen-99,Sam,Allen,,1,4,0,0,,,2,,1,0,1,,,,0
+stat,rteam,player,tim-althoff-99,Tim,Althoff,,1,3,0,0,,,2,,1,0,1,,,,0
+stat,rteam,player,jim-caruthers-99,Jim,Caruthers,,2,9,1,2,,,5,,1,1,3,,,,0
+stat,rteam,player,greg-smith-99,Greg,Smith,,0,2,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,jim-zimmerman-99,Jim,Zimmerman,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,tom-les-99,Tom,Les,,0,2,0,0,,,0,,0,2,1,,,,0
+tstat,rteam,,16,55,6,8,,,38,,23,7,17,,,,6,0
+linescore,rteam,10,28,:,38
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,5,9,0,0,,,10,,5,3,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,7,2,2,,,12,,3,0,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,8,9,0,0,,,16,,17,2,2,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,2,9,0,2,,,4,,0,5,3,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,2,3,0,0,,,4,,1,4,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,2,4,0,0,,,4,,3,1,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,3,3,5,,,9,,3,1,0,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,1,4,4,,,6,,2,4,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,2,2,3,,,4,,1,3,2,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,2,0,2,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,2,2,0,0,,,4,,2,1,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,hteam,,31,49,11,16,,,73,,41,24,11,,,,6,0
+linescore,hteam,28,45,:,73
+sources,Los Angeles Times and Long Beach Press-Telegram
+issues,stats,Long Beach Press-Telegram missing Myers and team total rebounds for UCLA. Rest of players have the same rebound figures as LA Times, but do not add up to the UCLA rebound totals + team rebounds.
+
+gamebxt
+version,1
+info,date,12/02/1972
+info,dayofweek,Saturday
+info,rteam,Pacific Tigers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12562
+info,ref,Dan Sherwood
+info,ref,Lorinzer Clark
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,stan-morrison-1,Stan,Morrison,0
+stat,rteam,player,bucky-snyder-99,Bucky,Snyder,,1,6,2,2,,,4,,2,0,1,,,,0
+stat,rteam,player,jim-mccargo-99,Jim,McCargo,,5,16,1,3,,,11,,7,0,3,,,,0
+stat,rteam,player,mike-fink-99,Mike,Fink,,5,10,1,4,,,11,,5,1,0,,,,0
+stat,rteam,player,john-errecart-99,John,Errecart,,1,8,0,0,,,2,,1,0,3,,,,0
+stat,rteam,player,ossie-noble-99,Ossie,Noble,,0,2,2,2,,,2,,0,0,1,,,,0
+stat,rteam,player,john-joshua-99,John,Joshua,,0,1,0,0,,,0,,3,1,1,,,,0
+stat,rteam,player,gary-dean-99,Gary,Dean,,3,5,0,0,,,6,,0,3,0,,,,0
+stat,rteam,player,chad-meyer-99,Chad,Meyer,,4,9,0,0,,,8,,5,0,3,,,,0
+stat,rteam,player,warren-legarie-99,Warren,LeGarie,,2,4,0,0,,,4,,0,4,3,,,,0
+stat,rteam,player,andy-oliveira-99,Andy,Oliveira,,0,1,0,0,,,0,,0,1,1,,,,0
+stat,rteam,player,mike-tarabanovic-99,Mike,Tarabanovic,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,21,62,6,11,,,48,,24,13,16,,,,1,0
+linescore,rteam,15,33,:,48
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,12,2,2,,,18,,9,2,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,4,8,0,0,,,8,,5,1,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,6,10,0,3,,,12,,15,9,0,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,1,5,0,0,,,2,,2,2,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,12,0,2,,,14,,4,3,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,0,0,3,5,,,3,,1,4,1,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,3,6,0,0,,,6,,5,4,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,1,2,2,,,4,,4,1,1,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,2,3,0,1,,,4,,5,0,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,4,6,0,0,,,8,,5,1,2,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,1,0,0,,,0,,2,0,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,1,2,0,0,,,2,,0,1,0,,,,0
+tstat,hteam,,37,66,7,15,,,81,,59,28,8,,,,2,0
+linescore,hteam,40,41,:,81
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,12/16/1972
+info,dayofweek,Saturday
+info,rteam,UC Santa Barbara Gauchos
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12498
+info,ref,Frank Buckiewicz
+info,ref,Lorinzer Clark
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Assistant Coach Gary Cunningham filled in for John Wooden who had been hospitalized due to heart trouble.
+info,prelim,
+info,event,
+coach,rteam,ralph-barkey-1,Ralph,Barkey,0
+stat,rteam,player,clarence-allen-99,Clarence,Allen,,8,16,0,0,,,16,,5,1,2,,,,0
+stat,rteam,player,john-radford-99,John,Radford,,2,10,0,0,,,4,,5,3,5,,,,0
+stat,rteam,player,pat-boyer-99,Pat,Boyer,,3,9,1,2,,,7,,5,0,5,,,,0
+stat,rteam,player,bob-schachter-99,Bob,Schachter,,2,7,0,1,,,4,,2,6,1,,,,0
+stat,rteam,player,perry-ludy-99,Perry,Ludy,,6,12,0,0,,,12,,1,1,1,,,,0
+stat,rteam,player,dennis-rector-99,Dennis,Rector,,4,11,3,3,,,11,,2,1,2,,,,0
+stat,rteam,player,jay-hanseth-99,Jay,Hanseth,,3,9,0,0,,,6,,1,1,0,,,,0
+stat,rteam,player,darrelle-lyons-99,Darrelle,Lyons,,2,4,0,0,,,4,,4,0,2,,,,0
+stat,rteam,player,jerry-lee-99,Jerry,Lee,,0,2,0,0,,,0,,2,0,1,,,,0
+stat,rteam,player,floyd-cawthon-99,Floyd,Cawthon,,0,2,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,steve-becker-99,Steve,Becker,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,kurt-anderson-99,Kurt,Anderson,,1,4,1,2,,,3,,2,0,3,,,,0
+tstat,rteam,,31,86,5,8,,,67,,38,13,23,,,,8,0
+linescore,rteam,23,44,:,67
+coach,hteam,gary-cunningham-1,Gary,Cunningham,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,7,16,2,4,,,16,,13,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,8,12,1,1,,,17,,2,1,1,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,11,13,8,11,,,30,,22,3,2,,,,1
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,0,3,0,0,,,0,,3,11,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,9,11,0,0,,,18,,1,7,1,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,0,6,0,2,,,0,,2,1,0,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,3,4,0,0,,,6,,1,6,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,2,0,1,,,2,,5,2,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,2,4,0,0,,,4,,2,0,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,1,3,2,5,,,4,,7,0,1,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,1,1,2,,,1,,1,0,0,,,,0
+stat,hteam,player,casey-corliss-1,Casey,Corliss,,0,0,0,0,,,0,,0,1,0,,,,0
+stat,hteam,player,ralph-drollinger-1,Ralph,Drollinger,,0,1,0,0,,,0,,1,0,0,,,,0
+tstat,hteam,,42,77,14,26,,,98,,65,33,9,,,,5,1
+linescore,hteam,42,56,:,98
+sources,Los Angeles Times
+issues,Long Beach Press Telegram lists UCLA with 67 rebounds including 5 team rebounds but player totals add up to 61. Carson 6.
+issues,LA Times lists UCLA with 65 rebounds including 5 team rebounds and player totals add up to 60. Carson 5.
+
+gamebxt
+version,1
+info,date,12/22/1972
+info,dayofweek,Friday
+info,rteam,Pittsburgh Panthers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12413
+info,ref,Irv Brown
+info,ref,Jack Ditty
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,buzz-ridl-1,Buzz,Ridl,0
+stat,rteam,player,billy-knight-99,Billy,Knight,,17,32,3,3,,,37,,7,3,0,,,,0
+stat,rteam,player,mickey-martin-99,Mickey,Martin,,2,7,1,2,,,5,,4,1,1,,,,0
+stat,rteam,player,jim-bolla-99,Jim,Bolla,,0,2,0,0,,,0,,1,0,5,,,,0
+stat,rteam,player,sam-fleming-99,Sam,Fleming,,1,4,0,0,,,2,,3,4,3,,,,0
+stat,rteam,player,tom-richards-99,Tom,Richards,,1,4,0,0,,,2,,1,0,1,,,,0
+stat,rteam,player,ken-wagoner-99,Ken,Wagoner,,0,0,0,0,,,0,,1,2,0,,,,0
+stat,rteam,player,bill-sulkowski-99,Bill,Sulkowski,,8,17,0,0,,,16,,9,1,3,,,,0
+stat,rteam,player,keith-starr-99,Keith,Starr,,2,6,0,0,,,4,,1,1,0,,,,0
+stat,rteam,player,lucius-keese-99,Lucius,Keese,,0,0,1,2,,,1,,4,0,2,,,,1
+stat,rteam,player,carl-morris-99,Carl,Morris,,2,4,0,0,,,4,,1,0,5,,,,0
+stat,rteam,player,willie-cardot-99,Willie,Cardot,,0,0,2,2,,,2,,1,1,1,,,,0
+tstat,rteam,,33,76,7,9,,,73,,39,13,21,,,,9,1
+linescore,rteam,31,42,:,73
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,13,4,4,,,20,,9,1,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,7,10,2,4,,,16,,6,2,3,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,7,13,4,8,,,18,,16,9,2,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,1,4,0,2,,,2,,1,4,1,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,3,4,2,2,,,8,,0,6,3,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,0,1,6,6,,,6,,0,3,1,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,2,6,1,4,,,5,,1,5,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,2,5,2,3,,,6,,2,1,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,1,1,2,,,3,,3,1,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,2,4,1,2,,,5,,1,0,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,1,0,0,,,0,,1,0,1,,,,0
+tstat,hteam,,33,62,23,37,,,89,,49,32,13,,,,9,0
+linescore,hteam,45,44,:,89
+sources,Los Angeles Times and Long Beach Press-Telegram
+issues,LAT lists Flemming and Morris with 0 REB
+
+gamebxt
+version,1
+info,date,12/23/1972
+info,dayofweek,Saturday
+info,rteam,Notre Dame Fighting Irish
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12578
+info,ref,Ernie Filiberti
+info,ref,Lou Soriano
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,digger-phelps-1,Digger,Phelps,0
+stat,rteam,player,john-shumate-99,John,Shumate,,8,16,2,5,,,18,,9,1,2,,,,0
+stat,rteam,player,gary-novak-99,Gary,Novak,,7,14,0,0,,,14,,3,1,2,,,,0
+stat,rteam,player,peter-crotty-99,Peter,Crotty,,0,6,0,0,,,0,,3,2,1,,,,0
+stat,rteam,player,dwight-clay-99,Dwight,Clay,,5,11,0,0,,,10,,4,2,2,,,,0
+stat,rteam,player,gary-brokaw-99,Gary,Brokaw,,6,18,0,0,,,12,,1,3,2,,,,0
+stat,rteam,player,don-silinski-99,Don,Silinski,,0,1,0,0,,,0,,2,0,1,,,,0
+stat,rteam,player,thomas-hansen-99,Thomas,Hansen,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,ken-wolbeck-99,Ken,Wolbeck,,1,3,0,0,,,2,,1,1,1,,,,0
+stat,rteam,player,chris-stevens-99,Chris,Stevens,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,myron-schuckman-99,Myron,Schuckman,,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,27,69,2,5,,,56,,35,10,11,,,,5,0
+linescore,rteam,27,29,:,56
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,9,12,0,2,,,18,,8,8,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,3,8,2,2,,,8,,4,0,2,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,6,9,0,0,,,12,,12,6,2,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,6,16,0,1,,,12,,5,2,2,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,12,1,1,,,15,,4,5,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,3,0,0,,,2,,2,2,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,2,0,0,,,2,,4,1,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,3,4,1,2,,,7,,3,1,0,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,1,0,0,,,2,,1,2,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,1,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,2,2,0,0,,,4,,0,0,0,,,,0
+tstat,hteam,,39,70,4,8,,,82,,45,27,12,,,,2,0
+linescore,hteam,39,43,:,82
+sources,Los Angeles Times and Long Beach Press-Telegram
+issues,Press-Telegram lists Novak with 9 REB and 1 AST. LA Times lists Novak with 3 REB and 2 AST. Choosing 9 REB and 1 AST balances both team totals.
+issues,Press-Telegram lists Crotty with 4 REB.
+
+gamebxt
+version,1
+info,date,12/29/1972
+info,dayofweek,Friday
+info,rteam,Drake Bulldogs
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Municipal Auditorium
+info,city,New Orleans
+info,state,Louisiana
+info,country,United States
+info,attendance,6950
+info,ref,Tony Tortorello
+info,ref,Mickey Crowley
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Sugar Bowl Tournament semifinal
+info,prelim,
+info,event,
+coach,rteam,howard-stacey-1,Howard,Stacey,0
+stat,rteam,player,david-langston-99,David,Langston,10,3,5,0,0,,,6,,0,1,5,,,,0
+stat,rteam,player,ron-caldwell-99,Ron,Caldwell,37,6,14,1,2,,,13,,6,3,4,,,,0
+stat,rteam,player,larry-seger-99,Larry,Seger,33,10,19,1,2,,,21,,5,1,1,,,,0
+stat,rteam,player,dennis-bell-99,Dennis,Bell,32,2,6,4,4,,,8,,5,1,1,,,,0
+stat,rteam,player,tony-johnson-99,Tony,Johnson,7,0,2,1,2,,,1,,1,0,0,,,,0
+stat,rteam,player,cleo-kilgore-99,Cleo,Kilgore,33,2,6,0,0,,,4,,2,0,1,,,,0
+stat,rteam,player,craig-davis-99,Craig,Davis,34,6,8,1,1,,,13,,2,0,3,,,,0
+stat,rteam,player,morris-thomas-99,Morris,Thomas,4,1,1,0,0,,,2,,1,0,0,,,,0
+stat,rteam,player,andy-graham-99,Andy,Graham,3,0,0,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,terry-benka-99,Terry,Benka,1,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,mark-godfrey-99,Mark,Godfrey,3,2,2,0,0,,,4,,0,0,0,,,,0
+stat,rteam,player,larry-haralson-99,Larry,Haralson,3,0,1,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,200,32,65,8,11,,,72,,25,6,16,,,,3,0
+linescore,rteam,34,38,:,72
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,36,7,12,0,0,,,14,,13,1,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,36,7,13,0,0,,,14,,5,1,1,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,38,13,16,3,5,,,29,,14,2,3,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,35,6,9,0,3,,,12,,3,5,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,32,6,11,2,4,,,14,,2,5,3,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,8,0,0,0,1,,,0,,0,1,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,5,0,0,0,0,,,0,,0,1,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,4,0,0,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,4,0,1,0,0,,,0,,0,1,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,2,1,1,0,0,,,2,,1,0,0,,,,0
+tstat,hteam,200,40,63,5,13,,,85,,42,17,11,,,,4,0
+linescore,hteam,38,47,:,85
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,12/30/1972
+info,dayofweek,Saturday
+info,rteam,Illinois Fighting Illini
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,
+info,arena,Municipal Auditorium
+info,city,New Orleans
+info,state,Louisiana
+info,country,United States
+info,attendance,7123
+info,ref,Mickey Crowley
+info,ref,Allen Winters
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Sugar Bowl Tournament final
+info,prelim,
+info,event,
+coach,rteam,harv-schmidt-1,Harv,Schmidt,0
+stat,rteam,player,nick-weatherspoon-99,Nick,Weatherspoon,40,6,20,6,6,,,18,,10,0,4,,,,0
+stat,rteam,player,rick-schmidt-99,Rick,Schmidt,23,1,4,0,0,,,2,,4,1,3,,,,0
+stat,rteam,player,nick-conner-99,Nick,Conner,40,8,14,1,1,,,17,,5,1,3,,,,0
+stat,rteam,player,jeff-dawson-99,Jeff,Dawson,40,6,17,2,2,,,14,,3,1,2,,,,0
+stat,rteam,player,otho-tucker-99,Otho,Tucker,23,2,6,4,4,,,8,,2,0,5,,,,0
+stat,rteam,player,jed-foster-99,Jed,Foster,5,0,0,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,cj-schroeder-99,C.J.,Schroeder,27,1,4,2,2,,,4,,6,1,1,,,,0
+stat,rteam,player,bill-rucks-99,Bill,Rucks,2,0,0,1,2,,,1,,1,0,0,,,,0
+tstat,rteam,200,24,65,16,17,,,64,,35,4,19,,,,4,0
+linescore,rteam,31,33,:,64
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,39,8,17,0,0,,,16,,8,0,4,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,40,5,12,9,10,,,19,,10,3,3,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,40,9,17,4,6,,,22,,16,3,3,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,30,2,7,0,0,,,4,,5,6,4,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,22,4,10,0,0,,,8,,4,1,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,15,0,2,0,0,,,0,,2,1,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,13,0,0,2,3,,,2,,2,0,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,1,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,hteam,200,28,65,15,19,,,71,,48,14,15,,,,6,0
+linescore,hteam,37,34,:,71
+sources,Los Angeles Times
+issues,UCLA player rebound totals add to 48 which LA Times also lists as the overall total despite 6 Team Rebounds.
+
+gamebxt
+version,1
+info,date,01/05/1973
+info,dayofweek,Friday
+info,rteam,Oregon Ducks
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12469
+info,ref,Mel Ross
+info,ref,Charles Moffett
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,dick-harter-1,Dick,Harter,0
+stat,rteam,player,mark-barwig-99,Mark,Barwig,,1,7,2,2,,,4,,5,2,4,,,,0
+stat,rteam,player,doug-little-99,Doug,Little,,4,16,0,0,,,8,,3,3,4,,,,0
+stat,rteam,player,gerald-willett-99,Gerald,Willett,,0,4,0,0,,,0,,4,2,4,,,,0
+stat,rteam,player,ron-lee-99,Ron,Lee,,5,11,0,2,,,10,,4,1,5,,,,0
+stat,rteam,player,burt-fredrickson-99,Burt,Fredrickson,,1,2,0,0,,,2,,1,2,0,,,,0
+stat,rteam,player,walt-reynolds-99,Walt,Reynolds,,1,3,0,0,,,2,,1,1,3,,,,0
+stat,rteam,player,billy-ingram-99,Billy,Ingram,,1,1,4,4,,,6,,0,1,2,,,,0
+stat,rteam,player,paul-halupa-99,Paul,Halupa,,1,2,0,0,,,2,,0,1,1,,,,0
+stat,rteam,player,bruce-coldren-99,Bruce,Coldren,,1,2,0,0,,,2,,0,0,0,,,,0
+stat,rteam,player,ken-stringer-99,Ken,Stringer,,1,1,0,0,,,2,,2,0,0,,,,0
+tstat,rteam,,16,49,6,8,,,38,,30,13,23,,,,10,0
+linescore,rteam,14,24,:,38
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,10,2,2,,,14,,4,3,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,6,11,2,2,,,14,,4,1,3,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,3,6,0,1,,,6,,13,6,3,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,2,5,1,2,,,5,,2,3,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,4,0,2,,,0,,3,3,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,2,1,1,,,3,,2,3,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,3,6,4,4,,,10,,1,0,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,4,1,2,,,7,,2,0,1,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,1,2,1,1,,,3,,1,0,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,1,2,0,0,,,2,,0,0,0,,,,0
+tstat,hteam,,26,53,12,17,,,64,,39,19,13,,,,6,0
+linescore,hteam,18,46,:,64
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,01/06/1973
+info,dayofweek,Saturday
+info,rteam,Oregon State Beavers
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12403
+info,ref,Mel Ross
+info,ref,Al Vidal
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,ralph-miller-1,Ralph,Miller,0
+stat,rteam,player,rich-plante-99,Rich,Plante,,2,6,2,2,,,6,,0,2,5,,,,0
+stat,rteam,player,sam-whitehead-99,Sam,Whitehead,,4,8,0,1,,,8,,3,1,2,,,,0
+stat,rteam,player,neal-jurgenson-99,Neal,Jurgenson,,5,12,3,3,,,13,,9,0,3,,,,0
+stat,rteam,player,ron-jones-99,Ron,Jones,,2,5,1,2,,,5,,3,2,5,,,,0
+stat,rteam,player,charles-neal-99,Charles,Neal,,3,7,1,1,,,7,,1,9,0,,,,0
+stat,rteam,player,paul-miller-99,Paul,Miller,,7,13,0,0,,,14,,6,1,4,,,,0
+stat,rteam,player,cliff-jones-99,Cliff,Jones,,3,8,0,0,,,6,,2,0,1,,,,0
+stat,rteam,player,rod-hightower-99,Rod,Hightower,,0,2,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,steve-ericksen-99,Steve,Ericksen,,0,3,2,2,,,2,,3,0,1,,,,0
+stat,rteam,player,jim-cave-99,Jim,Cave,,0,0,0,0,,,0,,0,1,0,,,,0
+stat,rteam,player,rick-reed-99,Rick,Reed,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,doug-oxsen-99,Doug,Oxsen,,0,0,0,0,,,0,,1,0,1,,,,0
+tstat,rteam,,26,65,9,11,,,61,,32,16,22,,,,3,0
+linescore,rteam,31,30,:,61
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,12,3,7,,,19,,5,4,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,6,9,2,2,,,14,,7,2,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,7,15,1,1,,,15,,17,5,4,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,3,3,2,4,,,8,,3,2,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,6,15,0,0,,,12,,3,5,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,2,2,2,,,4,,0,6,1,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,0,2,1,2,,,1,,0,2,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,6,4,5,,,10,,4,1,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,2,6,0,0,,,4,,8,0,5,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,0,0,0,0,,,0,,1,1,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,0,0,0,,,0,,0,1,0,,,,0
+tstat,hteam,,36,71,15,23,,,87,,52,29,17,,,,3,0
+linescore,hteam,43,44,:,87
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/12/1973
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Stanford Cardinals
+info,neutralsite,
+info,title,
+info,arena,Maples Pavilion
+info,city,Stanford
+info,state,California
+info,country,United States
+info,attendance,7929
+info,ref,Lou Soriano
+info,ref,Frank Buckiewicz
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,11,0,0,,,12,,10,2,3,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,9,13,0,1,,,18,,2,1,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,9,16,0,1,,,18,,17,3,3,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,8,14,2,2,,,18,,3,3,2,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,2,7,2,2,,,6,,5,6,1,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,2,7,0,0,,,4,,1,0,1,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,0,6,0,0,,,0,,3,0,0,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,1,1,0,0,,,2,,2,0,0,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,2,3,0,0,,,4,,2,0,1,,,,0
+stat,rteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,0,0,0,0,,,0,,1,0,1,,,,0
+tstat,rteam,,39,79,4,6,,,82,,52,15,15,,,,6,0
+linescore,rteam,40,42,:,82
+coach,hteam,howard-dallmar-1,Howard,Dallmar,0
+stat,hteam,player,carl-frost-99,Carl,Frost,,9,23,4,4,,,22,,3,0,2,,,,0
+stat,hteam,player,michael-mann-99,Michael,Mann,,1,6,3,3,,,5,,0,0,2,,,,0
+stat,hteam,player,rich-kelley-99,Rich,Kelley,,4,15,1,1,,,9,,8,3,0,,,,0
+stat,hteam,player,mel-arterberry-99,Mel,Arterberry,,3,5,0,1,,,6,,5,0,2,,,,0
+stat,hteam,player,bob-buell-99,Bob,Buell,,2,5,1,1,,,5,,3,1,0,,,,0
+stat,hteam,player,tim-patterson-99,Tim,Patterson,,5,13,2,2,,,12,,7,0,0,,,,0
+stat,hteam,player,steve-shupe-99,Steve,Shupe,,0,0,0,0,,,0,,2,0,0,,,,0
+stat,hteam,player,scott-trobbe-99,Scott,Trobbe,,4,8,0,0,,,8,,4,1,0,,,,0
+stat,hteam,player,mark-gilberg-99,Mark,Gilberg,,0,2,0,0,,,0,,2,1,2,,,,0
+tstat,hteam,,28,77,11,12,,,67,,40,6,8,,,,6,0
+linescore,hteam,32,35,:,67
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/13/1973
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,California Golden Bears
+info,neutralsite,
+info,title,
+info,arena,Harmon Gym
+info,city,Berkeley
+info,state,California
+info,country,United States
+info,attendance,7200
+info,ref,Lou Soriano
+info,ref,Frank Buckiewicz
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,14,2,3,,,18,,12,4,2,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,9,15,0,0,,,18,,5,1,1,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,5,13,4,8,,,14,,17,1,3,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,4,14,1,2,,,9,,4,2,4,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,2,5,4,6,,,8,,2,3,1,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,1,2,0,0,,,2,,2,0,1,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,rteam,,29,63,11,19,,,69,,45,11,13,,,,3,0
+linescore,rteam,33,36,:,69
+coach,hteam,dick-edwards-1,Dick,Edwards,0
+stat,hteam,player,john-coughran-99,John,Coughran,,1,8,0,1,,,2,,7,1,2,,,,0
+stat,hteam,player,bill-kellar-99,Bill,Kellar,,0,4,0,0,,,0,,2,0,2,,,,0
+stat,hteam,player,carl-meier-99,Carl,Meier,,9,17,2,2,,,20,,6,1,4,,,,0
+stat,hteam,player,rickie-hawthorne-99,Rickie,Hawthorne,,7,15,1,1,,,15,,10,1,3,,,,0
+stat,hteam,player,brady-allen-99,Brady,Allen,,1,8,1,3,,,3,,3,6,4,,,,0
+stat,hteam,player,pat-motola-99,Pat,Motola,,1,2,0,0,,,2,,1,0,5,,,,0
+stat,hteam,player,eric-long-99,Eric,Long,,4,6,0,0,,,8,,2,1,2,,,,0
+stat,hteam,player,sam-krupsky-99,Sam,Krupsky,,0,0,0,0,,,0,,1,0,2,,,,0
+tstat,hteam,,23,60,4,7,,,50,,37,10,24,,,,5,0
+linescore,hteam,35,15,:,50
+sources,Los Angeles Times & San Bernardino County Sun
+issues,LA Times lists Stanford with 7 rebounds but San Bernardino County Sun game story says 37, which matches player totals + team rebounds.
+
+gamebxt
+version,1
+info,date,01/19/1973
+info,dayofweek,Friday
+info,rteam,San Francisco Dons
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12802
+info,ref,Jack Ditty
+info,ref,Lorinzer Clark
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,bob-gaillard-1,Bob,Gaillard,0
+stat,rteam,player,kevin-restani-99,Kevin,Restani,,8,20,3,4,,,19,,12,3,3,,,,0
+stat,rteam,player,byron-jones-99,Byron,Jones,,0,5,0,0,,,0,,5,4,4,,,,0
+stat,rteam,player,eric-fernsten-99,Eric,Fernsten,,3,8,1,2,,,7,,7,1,2,,,,0
+stat,rteam,player,phil-smith-99,Phil,Smith,,4,9,2,2,,,10,,1,1,5,,,,0
+stat,rteam,player,mike-quick-99,Mike,Quick,,6,16,0,0,,,12,,0,5,2,,,,0
+stat,rteam,player,john-boro-99,John,Boro,,5,9,0,0,,,10,,2,5,3,,,,0
+stat,rteam,player,howard-smith-99,Howard,Smith,,2,2,0,0,,,4,,4,1,1,,,,0
+stat,rteam,player,brad-quanstrom-99,Brad,Quanstrom,,0,2,2,2,,,2,,0,0,0,,,,0
+tstat,rteam,,28,71,8,10,,,64,,32,20,20,,,,1,0
+linescore,rteam,25,39,:,64
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,13,1,1,,,13,,4,2,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,7,11,1,2,,,15,,4,1,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,11,18,0,0,,,22,,22,7,2,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,6,6,9,,,8,,4,6,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,6,14,0,2,,,12,,5,5,4,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,2,4,0,1,,,4,,9,2,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,3,4,4,,,6,,4,2,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,0,2,2,2,,,2,,1,1,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,2,5,2,2,,,6,,4,0,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,1,3,0,0,,,2,,3,0,1,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,1,4,0,0,,,2,,1,0,0,,,,0
+tstat,hteam,,38,83,16,23,,,92,,65,26,13,,,,4,0
+linescore,hteam,42,50,:,92
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/20/1973
+info,dayofweek,Saturday
+info,rteam,Providence Friars
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12771
+info,ref,Mel Ross
+info,ref,Dick Schromm
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,dave-gavitt-1,Dave,Gavitt,0
+stat,rteam,player,charles-crawford-99,Charles,Crawford,,1,4,0,0,,,2,,4,0,4,,,,0
+stat,rteam,player,francis-costello-99,Francis,Costello,,3,5,3,4,,,9,,3,3,5,,,,0
+stat,rteam,player,marvin-barnes-99,Marvin,Barnes,,6,16,0,0,,,12,,13,3,5,,,,0
+stat,rteam,player,ernie-digregorio-99,Ernie,DiGregorio,,11,23,0,3,,,22,,5,13,0,,,,0
+stat,rteam,player,kevin-stacom-99,Kevin,Stacom,,6,17,0,0,,,12,,5,1,1,,,,0
+stat,rteam,player,nehru-king-99,Nehru,King,,4,6,2,2,,,10,,4,1,3,,,,0
+stat,rteam,player,ron-norwood-99,Ron,Norwood,,3,6,0,0,,,6,,1,2,0,,,,0
+stat,rteam,player,al-baker-99,Al,Baker,,0,0,2,4,,,2,,2,0,3,,,,0
+stat,rteam,player,dave-modest-99,Dave,Modest,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,rich-dunphy-99,Rich,Dunphy,,1,1,0,1,,,2,,0,0,0,,,,0
+stat,rteam,player,gary-bello-99,Gary,Bello,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,mark-mcandrew-99,Mark,McAndrew,,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,35,79,7,14,,,77,,42,23,21,,,,4,0
+linescore,rteam,36,41,:,77
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,11,1,2,,,17,,8,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,9,18,3,6,,,21,,4,1,3,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,7,12,4,7,,,18,,24,8,2,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,3,8,2,2,,,8,,2,13,2,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,17,4,4,,,18,,3,3,4,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,2,8,0,0,,,4,,3,1,3,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,2,2,0,0,,,4,,7,1,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,2,2,0,0,,,4,,3,1,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,2,4,2,3,,,6,,4,0,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,1,0,0,,,0,,0,1,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,1,1,2,,,1,,0,1,1,,,,0
+tstat,hteam,,42,84,17,26,,,101,,60,31,20,,,,2,0
+linescore,hteam,44,57,:,101
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/25/1973
+info,dayofweek,Thursday
+info,rteam,UCLA Bruins
+info,hteam,Loyola of Chicago Ramblers
+info,neutralsite,
+info,title,
+info,arena,Chicago Stadium
+info,city,Chicago
+info,state,Illinois
+info,country,United States
+info,attendance,15817
+info,ref,Jim Bain
+info,ref,Jerry Meaz
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,16,0,0,,,16,,15,4,3,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,3,10,0,0,,,6,,3,0,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,14,19,4,6,,,32,,27,1,3,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,3,5,3,6,,,9,,1,5,1,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,5,7,4,6,,,14,,4,1,2,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,1,2,0,0,,,2,,0,1,0,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,0,0,0,0,,,0,,1,0,1,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,3,6,2,2,,,8,,1,0,3,,,,0
+tstat,rteam,,37,65,13,20,,,87,,55,12,16,,,,2,0
+linescore,rteam,47,40,:,87
+coach,hteam,george-ireland-1,George,Ireland,0
+stat,hteam,player,ernie-lewis-99,Ernie,Lewis,,1,9,3,4,,,5,,11,0,4,,,,0
+stat,hteam,player,nate-hayes-99,Nate,Hayes,,5,15,3,4,,,13,,7,1,0,,,,0
+stat,hteam,player,paul-cohen-99,Paul,Cohen,,5,12,0,2,,,10,,5,0,4,,,,0
+stat,hteam,player,john-willey-99,John,Willey,,7,14,0,0,,,14,,4,0,5,,,,0
+stat,hteam,player,frank-sanders-99,Frank,Sanders,,12,24,0,0,,,24,,1,2,2,,,,0
+stat,hteam,player,pat-compobasso-99,Pat,Compobasso,,2,3,3,4,,,7,,3,0,1,,,,0
+stat,hteam,player,brian-hayden-99,Brian,Hayden,,0,3,0,0,,,0,,2,0,2,,,,0
+stat,hteam,player,garvey-walker-99,Garvey,Walker,,0,1,0,0,,,0,,1,0,0,,,,0
+tstat,hteam,,32,81,9,14,,,73,,34,3,18,,,,0,0
+linescore,hteam,39,34,:,73
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/27/1973
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Notre Dame Fighting Irish
+info,neutralsite,
+info,title,
+info,arena,Athletic & Convocation Center
+info,city,South Bend
+info,state,Indiana
+info,country,United States
+info,attendance,11343
+info,ref,George Strauthers
+info,ref,Bob Brodbeck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,10,16,0,0,,,20,,9,0,1,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,8,19,0,1,,,16,,7,2,0,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,8,12,0,0,,,16,,15,4,2,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,2,7,3,3,,,7,,1,9,0,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,4,10,0,0,,,8,,4,3,2,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,1,4,1,2,,,3,,3,2,0,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,3,3,0,0,,,6,,3,0,2,,,,0
+stat,rteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,1,3,0,0,,,2,,3,0,0,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,1,1,0,0,,,2,,0,0,1,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,0,0,2,2,,,2,,0,0,0,,,,0
+tstat,rteam,,38,76,6,8,,,82,,51,20,8,,,,6,0
+linescore,rteam,38,44,:,82
+coach,hteam,digger-phelps-1,Digger,Phelps,0
+stat,hteam,player,john-shumate-99,John,Shumate,,8,20,5,5,,,21,,12,6,3,,,,0
+stat,hteam,player,gary-novak-99,Gary,Novak,,0,4,0,0,,,0,,1,1,1,,,,0
+stat,hteam,player,gary-crotty-99,Gary,Crotty,,3,6,1,4,,,7,,5,1,1,,,,0
+stat,hteam,player,gary-brokaw-99,Gary,Brokaw,,8,18,0,0,,,16,,6,1,3,,,,0
+stat,hteam,player,dwight-clay-99,Dwight,Clay,,5,17,0,0,,,10,,3,5,2,,,,0
+stat,hteam,player,don-silinski-99,Don,Silinski,,2,3,1,1,,,5,,0,0,0,,,,0
+stat,hteam,player,willie-townsend-99,Willie,Townsend,,1,2,0,0,,,2,,1,0,1,,,,0
+stat,hteam,player,chris-stevens-99,Chris,Stevens,,0,2,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,thomas-hansen-99,Thomas,Hansen,,0,0,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,michael-townsend-99,Michael,Townsend,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,ken-wolbeck-99,Ken,Wolbeck,,1,3,0,0,,,2,,2,0,0,,,,0
+tstat,hteam,,28,75,7,10,,,63,,39,14,13,,,,8,0
+linescore,hteam,25,38,:,63
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/03/1973
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,USC Trojans
+info,neutralsite,
+info,title,
+info,arena,L.A. Sports Arena
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,14139
+info,ref,Lou Soriano
+info,ref,Bob Herrold
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,7,11,0,0,,,14,,2,1,2,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,6,11,4,4,,,16,,6,2,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,10,12,0,0,,,20,,17,2,3,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,3,4,0,0,,,6,,0,2,2,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,5,12,0,1,,,10,,2,2,2,,,,0
+stat,rteam,player,tommy-curtis-1,Tommy,Curtis,,2,2,0,1,,,4,,0,2,0,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,1,1,0,0,,,2,,0,0,1,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,3,5,1,1,,,7,,2,1,0,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,0,0,0,0,,,0,,0,1,0,,,,0
+stat,rteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,37,59,5,7,,,79,,29,13,13,,,,0,0
+linescore,rteam,40,39,:,79
+coach,hteam,bob-boyd-1,Bob,Boyd,0
+stat,hteam,player,clint-chapman-99,Clint,Chapman,,9,16,0,0,,,18,,8,0,2,,,,0
+stat,hteam,player,bruce-clark-99,Bruce,Clark,,2,4,0,0,,,4,,2,3,0,,,,0
+stat,hteam,player,mike-westra-99,Mike,Westra,,1,2,0,0,,,2,,4,1,5,,,,0
+stat,hteam,player,dan-anderson-99,Dan,Anderson,,7,9,2,2,,,16,,1,2,2,,,,0
+stat,hteam,player,gus-williams-99,Gus,Williams,,4,12,2,2,,,10,,4,1,1,,,,0
+stat,hteam,player,biff-burrell-99,Biff,Burrell,,1,4,0,0,,,2,,0,0,0,,,,0
+stat,hteam,player,john-lambert-99,John,Lambert,,1,5,0,0,,,2,,4,0,3,,,,0
+stat,hteam,player,bob-boyd-99,Bob,Boyd,,0,1,0,0,,,0,,1,0,1,,,,0
+stat,hteam,player,brian-heublein-99,Brian,Heublein,,1,2,0,0,,,2,,0,1,0,,,,0
+tstat,hteam,,26,55,4,4,,,56,,24,8,14,,,,0,0
+linescore,hteam,20,36,:,56
+sources,Los Angeles Times & Long Beach Press-Telegram
+issues,LA Times lists UCLA with 29 total rebounds, including 6 team rebounds, but player totals add up to 29. Long Beach Press-Telegram lists UCLA with 0 team rebounds.
+
+gamebxt
+version,1
+info,date,02/10/1973
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Washington State Cougars
+info,neutralsite,
+info,title,
+info,arena,Bohler Gymnasium
+info,city,Pullman
+info,state,Washington
+info,country,United States
+info,attendance,5000
+info,ref,Lou Soriano
+info,ref,Jack Ditty
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,5,9,2,3,,,12,,7,2,3,,,,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,7,15,2,3,,,16,,8,2,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,7,8,3,4,,,17,,13,3,3,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,2,2,0,0,,,4,,0,10,0,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,13,0,2,,,14,,1,4,2,,,,0
+stat,rteam,player,tommy-curtis-1,Tommy,Curtis,,1,3,0,1,,,2,,0,5,1,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,4,8,0,2,,,8,,5,0,2,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,1,3,0,1,,,2,,6,0,1,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,4,4,1,3,,,9,,2,1,1,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,0,1,0,0,,,0,,2,0,1,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,2,2,0,0,,,4,,1,1,0,,,,0
+stat,rteam,player,bob-webb-1,Bob,Webb,,0,3,0,0,,,0,,2,0,1,,,,0
+tstat,rteam,,40,71,8,19,,,88,,57,28,18,,,,10,0
+linescore,rteam,34,54,:,88
+coach,hteam,george-raveling-1,George,Raveling,0
+stat,hteam,player,morris-griffin-99,Morris,Griffin,,6,13,0,2,,,12,,7,0,2,,,,0
+stat,hteam,player,rich-steele-99,Rich,Steele,,0,2,1,2,,,1,,2,0,1,,,,0
+stat,hteam,player,mike-dolven-99,Mike,Dolven,,11,22,1,2,,,23,,2,0,2,,,,0
+stat,hteam,player,pat-rogers-99,Pat,Rogers,,1,2,2,2,,,4,,1,3,0,,,,0
+stat,hteam,player,ben-krause-99,Ben,Krause,,0,0,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,edgar-jeffries-99,Edgar,Jeffries,,1,3,0,2,,,2,,2,4,4,,,,0
+stat,hteam,player,bob-niehl-99,Bob,Niehl,,0,3,1,2,,,1,,0,1,0,,,,0
+stat,hteam,player,brad-jackson-99,Brad,Jackson,,0,2,0,0,,,0,,0,1,3,,,,0
+stat,hteam,player,steve-bergstrom-99,Steve,Bergstrom,,1,5,0,0,,,2,,3,0,4,,,,0
+stat,hteam,player,don-johnson-99,Don,Johnson,,0,1,0,0,,,0,,1,0,1,,,,0
+stat,hteam,player,brad-greenberg-99,Brad,Greenberg,,1,2,1,1,,,3,,0,0,0,,,,0
+stat,hteam,player,sam-miller-99,Sam,Miller,,1,4,0,1,,,2,,1,0,1,,,,0
+tstat,hteam,,22,59,6,14,,,50,,32,9,19,,,,12,0
+linescore,hteam,18,32,:,50
+sources,Los Angeles Times & (Spokane, WA) Spokesman-Review
+issues,Ralph Drollinger listed in LA Times with all zeroes for stats, but he is not listed in the box score in the Spokesman-Review. According to the UCLA website and Sports Reference, Drollinger played in two games, not three, this season. I found Drollinger in the box scores from two other games, and in both of those games he had some non-zero statistics; and those stats add up correctly and match his season stats.
+
+
+gamebxt
+version,1
+info,date,02/12/1973
+info,dayofweek,Monday
+info,rteam,UCLA Bruins
+info,hteam,Washington Huskies
+info,neutralsite,
+info,title,
+info,arena,Hec Edmundson Pavilion
+info,city,Seattle
+info,state,Washington
+info,country,United States
+info,attendance,9000
+info,ref,Ernie Filiberti
+info,ref,Irv Brown
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,15,1,4,,,13,,8,0,2,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,6,11,1,1,,,13,,13,1,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,13,28,3,7,,,29,,21,4,2,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,2,4,0,0,,,4,,3,1,2,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,5,0,0,,,0,,2,8,2,,,,0
+stat,rteam,player,tommy-curtis-1,Tommy,Curtis,,1,1,2,2,,,4,,1,3,3,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,4,10,0,0,,,8,,5,4,1,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,1,3,0,1,,,2,,2,0,1,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,0,0,1,2,,,1,,2,0,2,,,,0
+stat,rteam,player,bob-webb-1,Bob,Webb,,0,0,2,2,,,2,,0,0,0,,,,0
+stat,rteam,player,pete-trgovich-1,Pete,Trgovich,,0,1,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,33,79,10,19,,,76,,64,21,18,,,,6,0
+linescore,rteam,44,32,:,76
+coach,hteam,marv-harshman-1,Marv,Harshman,0
+stat,hteam,player,reggie-ball-99,Reggie,Ball,,6,14,0,0,,,12,,5,0,4,,,,0
+stat,hteam,player,ray-price-99,Ray,Price,,5,15,0,0,,,10,,7,4,2,,,,0
+stat,hteam,player,lars-hansen-99,Lars,Hansen,,3,5,3,6,,,9,,5,3,5,,,,0
+stat,hteam,player,ron-williams-99,Ron,Williams,,2,8,0,0,,,4,,5,3,2,,,,0
+stat,hteam,player,louie-nelson-99,Louie,Nelson,,5,16,6,8,,,16,,6,2,2,,,,0
+stat,hteam,player,jeff-hawes-99,Jeff,Hawes,,1,3,0,0,,,2,,2,2,0,,,,0
+stat,hteam,player,john-mcknight-99,John,McKnight,,1,1,0,1,,,2,,0,0,1,,,,0
+stat,hteam,player,john-quigg-99,John,Quigg,,0,1,0,0,,,0,,0,2,2,,,,0
+stat,hteam,player,gene-broom-99,Gene,Broom,,1,1,0,0,,,2,,1,0,0,,,,0
+stat,hteam,player,frank-dehn-99,Frank,Dehn,,2,3,1,2,,,5,,2,2,1,,,,0
+stat,hteam,player,phil-carmichael-99,Phil,Carmichael,,2,4,1,1,,,5,,0,0,1,,,,0
+stat,hteam,player,curt-stokes-99,Curt,Stokes,,0,3,0,0,,,0,,1,0,0,,,,0
+tstat,hteam,,28,74,11,18,,,67,,44,18,20,,,,10,0
+linescore,hteam,26,41,:,67
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/16/1973
+info,dayofweek,Friday
+info,rteam,Washington Huskies
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12518
+info,ref,Bob Herrold
+info,ref,Dan Sherwood
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,marv-harshman-1,Marv,Harshman,0
+stat,rteam,player,reggie-ball-99,Reggie,Ball,,3,7,0,2,,,6,,7,4,1,,,,0
+stat,rteam,player,ray-price-99,Ray,Price,,4,11,0,0,,,8,,2,1,4,,,,0
+stat,rteam,player,lars-hansen-99,Lars,Hansen,,2,4,0,0,,,4,,3,3,4,,,,0
+stat,rteam,player,ron-williams-99,Ron,Williams,,2,6,0,0,,,4,,5,1,0,,,,0
+stat,rteam,player,louie-nelson-99,Louie,Nelson,,9,20,2,3,,,20,,3,5,3,,,,0
+stat,rteam,player,john-mcknight-99,John,McKnight,,2,3,0,0,,,4,,0,4,0,,,,0
+stat,rteam,player,john-quigg-99,John,Quigg,,1,1,0,0,,,2,,2,0,3,,,,0
+stat,rteam,player,curt-stokes-99,Curt,Stokes,,3,7,1,1,,,7,,2,1,2,,,,0
+stat,rteam,player,jeff-hawes-99,Jeff,Hawes,,0,1,0,0,,,0,,2,2,0,,,,0
+stat,rteam,player,gene-broom-99,Gene,Broom,,1,3,0,0,,,2,,1,0,2,,,,0
+stat,rteam,player,frank-dehn-99,Frank,Dehn,,0,1,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,phil-carmichael-99,Phil,Carmichael,,2,4,1,2,,,5,,1,1,0,,,,0
+tstat,rteam,,29,68,4,8,,,62,,36,22,20,,,,8,0
+linescore,rteam,22,40,:,62
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,12,1,3,,,13,,8,3,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,3,10,1,2,,,7,,3,4,1,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,12,18,2,3,,,26,,17,6,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,4,6,1,1,,,9,,0,10,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,4,9,0,1,,,8,,1,3,4,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,5,5,0,0,,,10,,3,6,2,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,8,3,3,,,9,,4,4,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,3,4,0,0,,,6,,6,0,2,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,3,1,2,,,3,,3,0,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,1,2,0,0,,,2,,2,3,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,42,78,9,15,,,93,,49,39,14,,,,2,0
+linescore,hteam,42,51,:,93
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/17/1973
+info,dayofweek,Saturday
+info,rteam,Washington State Cougars
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12111
+info,ref,Bob Herrold
+info,ref,Booker Turner
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,george-raveling-1,George,Raveling,0
+stat,rteam,player,edgar-jeffries-99,Edgar,Jeffries,,1,3,1,1,,,3,,6,1,2,,,,0
+stat,rteam,player,bob-niehl-99,Bob,Niehl,,2,2,0,0,,,4,,1,0,3,,,,0
+stat,rteam,player,mike-dolven-99,Mike,Dolven,,7,22,1,2,,,15,,9,2,4,,,,0
+stat,rteam,player,sam-miller-99,Sam,Miller,,8,12,2,2,,,18,,2,1,1,,,,0
+stat,rteam,player,brad-jackson-99,Brad,Jackson,,4,9,2,2,,,10,,1,8,1,,,,0
+stat,rteam,player,pat-rogers-99,Pat,Rogers,,2,3,0,0,,,4,,0,3,0,,,,0
+stat,rteam,player,morris-griffin-99,Morris,Griffin,,0,3,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,rich-steele-99,Rich,Steele,,0,0,0,0,,,0,,3,1,3,,,,0
+stat,rteam,player,steve-bergstrom-99,Steve,Bergstrom,,1,4,0,0,,,2,,2,0,1,,,,0
+stat,rteam,player,don-johnson-99,Don,Johnson,,1,3,0,0,,,2,,3,1,0,,,,0
+stat,rteam,player,brad-greenberg-99,Brad,Greenberg,,0,1,0,1,,,0,,0,0,0,,,,0
+stat,rteam,player,ben-krause-99,Ben,Krause,,3,5,0,0,,,6,,2,2,1,,,,0
+tstat,rteam,,29,67,6,8,,,64,,30,19,17,,,,1,0
+linescore,rteam,27,37,:,64
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,3,9,0,0,,,6,,5,1,0,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,2,6,2,4,,,6,,9,0,1,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,14,20,1,1,,,29,,18,8,0,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,5,2,3,,,4,,2,3,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,6,17,3,4,,,15,,5,11,2,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,5,0,0,,,2,,2,2,1,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,3,7,0,0,,,6,,1,5,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,5,11,4,6,,,14,,11,2,2,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,3,0,0,,,2,,4,0,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,2,3,0,0,,,4,,4,1,2,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,4,6,0,1,,,8,,3,0,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,42,93,12,19,,,96,,68,33,11,,,,4,0
+linescore,hteam,47,49,:,96
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/22/1973
+info,dayofweek,Thursday
+info,rteam,UCLA Bruins
+info,hteam,Oregon Ducks
+info,neutralsite,
+info,title,
+info,arena,McArthur Court
+info,city,Eugene
+info,state,Oregon
+info,country,United States
+info,attendance,10200
+info,ref,Ernie Filiberti
+info,ref,Mel Ross
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,5,13,8,12,,,18,,8,2,3,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,4,9,5,6,,,13,,5,1,4,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,7,11,0,2,,,14,,20,4,3,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,0,1,0,0,,,0,,1,3,1,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,8,13,1,1,,,17,,3,1,2,,,,0
+stat,rteam,player,tommy-curtis-1,Tommy,Curtis,,0,2,6,6,,,6,,0,1,2,,,,0
+stat,rteam,player,vince-carson-1,Vince,Carson,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,0,1,4,4,,,4,,0,0,1,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,0,1,0,0,,,0,,0,0,2,,,,0
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,rteam,,24,51,24,31,,,72,,42,12,19,,,,4,0
+linescore,rteam,32,40,:,72
+coach,hteam,dick-harter-1,Dick,Harter,0
+stat,hteam,player,doug-little-99,Doug,Little,,5,13,0,0,,,10,,4,3,2,,,,0
+stat,hteam,player,billy-ingram-99,Billy,Ingram,,0,2,0,0,,,0,,8,1,1,,,,0
+stat,hteam,player,gerald-willett-99,Gerald,Willett,,2,8,0,1,,,4,,5,3,5,,,,0
+stat,hteam,player,ron-lee-99,Ron,Lee,,15,26,1,2,,,31,,5,3,4,,,,0
+stat,hteam,player,mark-barwig-99,Mark,Barwig,,0,0,3,4,,,3,,0,3,4,,,,0
+stat,hteam,player,bruce-coldren-99,Bruce,Coldren,,5,10,1,1,,,11,,2,1,3,,,,0
+stat,hteam,player,george-martin-99,George,Martin,,0,0,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,walt-reynolds-99,Walt,Reynolds,,0,3,2,2,,,2,,2,2,4,,,,0
+tstat,hteam,,27,62,7,10,,,61,,30,16,24,,,,4,0
+linescore,hteam,27,34,:,61
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/24/1973
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Oregon State Beavers
+info,neutralsite,
+info,title,
+info,arena,Gill Coliseum
+info,city,Corvallis
+info,state,Oregon
+info,country,United States
+info,attendance,10520
+info,ref,Ernie Filiberti
+info,ref,Mel Ross
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,5,7,1,2,,,11,,1,0,5,,,,0
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,15,0,0,,,12,,6,1,3,,,,0
+stat,rteam,player,bill-walton-1,Bill,Walton,,8,14,5,7,,,21,,19,6,2,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,14,4,7,,,18,,3,5,2,,,,0
+stat,rteam,player,greg-lee-2,Greg,Lee,,0,1,0,0,,,0,,1,5,3,,,,0
+stat,rteam,player,tommy-curtis-1,Tommy,Curtis,,1,2,2,2,,,4,,2,2,1,,,,0
+stat,rteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,dave-meyers-1,Dave,Meyers,,2,2,3,4,,,7,,6,1,1,,,,0
+tstat,rteam,,29,55,15,22,,,73,,46,20,17,,,,7,0
+linescore,rteam,42,31,:,73
+coach,hteam,ralph-miller-1,Ralph,Miller,0
+stat,hteam,player,sam-whitehead-99,Sam,Whitehead,,5,13,1,3,,,11,,4,3,4,,,,0
+stat,hteam,player,rich-plante-99,Rich,Plante,,7,15,4,7,,,18,,6,4,2,,,,0
+stat,hteam,player,neal-jurgenson-99,Neal,Jurgenson,,8,18,0,0,,,16,,7,1,4,,,,0
+stat,hteam,player,ron-jones-99,Ron,Jones,,3,6,0,0,,,6,,5,1,2,,,,0
+stat,hteam,player,charles-neal-99,Charles,Neal,,3,7,0,0,,,6,,2,10,2,,,,0
+stat,hteam,player,cliff-jones-99,Cliff,Jones,,2,5,0,1,,,4,,0,0,0,,,,0
+stat,hteam,player,paul-miller-99,Paul,Miller,,0,2,2,2,,,2,,1,1,0,,,,0
+stat,hteam,player,steve-ericksen-99,Steve,Ericksen,,2,3,0,0,,,4,,3,0,3,,,,0
+stat,hteam,player,jim-cave-99,Jim,Cave,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,30,69,7,13,,,67,,32,20,17,,,,4,0
+linescore,hteam,35,32,:,67
+sources,Los Angeles Times
+issues,LA Times lists Jones and Neal with 10 assists each. One of them likely had 1 assist based on team total. Decided to list Jones with 1 assist based on his other games against UCLA and because Neal averaged 2 more assists per game for the season.
+
+gamebxt
+version,1
+info,date,03/02/1973
+info,dayofweek,Friday
+info,rteam,California Golden Bears
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12116
+info,ref,Lou Soriano
+info,ref,Jack Ditty
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,dick-edwards-1,Dick,Edwards,0
+stat,rteam,player,john-coughran-99,John,Coughran,,5,13,2,3,,,12,,7,3,1,,,,0
+stat,rteam,player,brady-allen-99,Brady,Allen,,6,14,0,0,,,12,,4,4,4,,,,0
+stat,rteam,player,carl-meier-99,Carl,Meier,,7,17,0,0,,,14,,9,0,4,,,,0
+stat,rteam,player,rickie-hawthorne-99,Rickie,Hawthorne,,5,14,1,1,,,11,,7,4,2,,,,0
+stat,rteam,player,vance-schram-99,Vance,Schram,,1,9,2,2,,,4,,3,2,1,,,,0
+stat,rteam,player,eric-long-99,Eric,Long,,5,6,0,0,,,10,,2,2,1,,,,0
+stat,rteam,player,sam-krupsky-99,Sam,Krupsky,,0,0,0,0,,,0,,2,0,3,,,,0
+stat,rteam,player,bill-kellar-99,Bill,Kellar,,0,0,0,0,,,0,,1,1,0,,,,0
+stat,rteam,player,gary-lucich-99,Gary,Lucich,,0,0,0,0,,,0,,2,1,1,,,,0
+stat,rteam,player,wayne-stout-99,Wayne,Stout,,1,3,0,0,,,2,,2,0,0,,,,0
+tstat,rteam,,30,76,5,6,,,65,,42,17,17,,,,3,0
+linescore,rteam,27,38,:,65
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,5,8,5,6,,,15,,2,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,3,8,1,3,,,7,,5,0,2,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,7,10,1,2,,,15,,9,8,4,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,5,13,0,0,,,10,,4,6,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,3,5,2,4,,,8,,1,4,1,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,5,6,0,0,,,10,,0,3,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,3,5,3,4,,,9,,7,2,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,5,9,0,0,,,10,,12,4,1,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,1,2,0,0,,,2,,1,1,1,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,2,0,2,,,0,,3,1,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,1,1,0,1,,,2,,3,0,1,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,1,4,0,0,,,2,,0,0,0,,,,0
+tstat,hteam,,39,73,12,22,,,90,,49,30,15,,,,2,0
+linescore,hteam,38,52,:,90
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,03/03/1973
+info,dayofweek,Saturday
+info,rteam,Stanford Cardinals
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12489
+info,ref,Lou Soriano
+info,ref,Charles Reed
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,howard-dellmar-1,Howard,Dellmar,0
+stat,rteam,player,scott-trobbe-99,Scott,Trobbe,,4,5,0,0,,,8,,1,1,1,,,,0
+stat,rteam,player,michael-mann-99,Michael,Mann,,3,4,0,0,,,6,,3,1,1,,,,0
+stat,rteam,player,rich-kelley-99,Rich,Kelley,,6,11,3,5,,,15,,15,3,4,,,,0
+stat,rteam,player,mel-arterberry-99,Mel,Arterberry,,5,7,0,0,,,10,,6,1,4,,,,0
+stat,rteam,player,mark-gilberg-99,Mark,Gilberg,,0,4,0,0,,,0,,1,3,2,,,,0
+stat,rteam,player,bob-buell-99,Bob,Buell,,2,4,0,0,,,4,,2,3,0,,,,0
+stat,rteam,player,tim-patterson-99,Tim,Patterson,,1,7,0,0,,,2,,3,1,1,,,,0
+stat,rteam,player,pat-rusco-99,Pat,Rusco,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,steve-shupe-99,Steve,Shupe,,0,1,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,21,44,3,5,,,45,,31,13,13,,,,0,0
+linescore,rteam,25,20,:,45
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,2,10,2,2,,,6,,6,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,12,0,1,,,10,,5,2,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,9,12,5,6,,,23,,10,8,3,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,2,0,0,,,2,,1,1,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,1,7,2,4,,,4,,3,5,4,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,1,3,2,2,,,4,,1,3,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,1,4,0,0,,,2,,2,0,0,,,,0
+tstat,hteam,,20,51,11,15,,,51,,29,20,10,,,,0,0
+linescore,hteam,18,33,:,51
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,03/10/1973
+info,dayofweek,Saturday
+info,rteam,USC Trojans
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12601
+info,ref,Irv Brown
+info,ref,Ernie Filiberti
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,bob-boyd-1,Bob,Boyd,0
+stat,rteam,player,clint-chapman-99,Clint,Chapman,,8,18,1,2,,,17,,9,0,2,,,,0
+stat,rteam,player,bruce-clark-99,Bruce,Clark,,0,5,1,3,,,1,,4,2,0,,,,0
+stat,rteam,player,mike-westra-99,Mike,Westra,,3,5,0,0,,,6,,7,2,5,,,,0
+stat,rteam,player,dan-anderson-99,Dan,Anderson,,6,20,0,0,,,12,,1,2,2,,,,0
+stat,rteam,player,gus-williams-99,Gus,Williams,,5,12,0,2,,,10,,5,3,1,,,,0
+stat,rteam,player,bob-trowbridge-99,Bob,Trowbridge,,0,3,0,0,,,0,,2,1,1,,,,0
+stat,rteam,player,biff-burrell-99,Biff,Burrell,,2,6,0,1,,,4,,2,2,1,,,,0
+stat,rteam,player,john-lambert-99,John,Lambert,,3,5,0,0,,,6,,4,0,4,,,,0
+stat,rteam,player,brian-heublein-99,Brian,Heublein,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,bob-boyd-99,Bob,Boyd,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,rteam,,27,74,2,8,,,56,,38,12,17,,,,4,0
+linescore,rteam,25,31,:,56
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,8,16,1,2,,,17,,6,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,12,0,1,,,10,,6,2,1,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,8,16,1,2,,,17,,20,8,1,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,2,2,2,2,,,6,,1,8,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,7,9,0,1,,,14,,5,5,4,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,1,3,0,0,,,2,,1,0,2,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,0,2,2,,,2,,3,0,1,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,1,2,2,,,4,,0,1,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,0,0,2,2,,,2,,2,0,2,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,0,0,0,0,,,0,,1,1,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,0,2,2,,,2,,0,0,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,32,59,12,16,,,76,,46,26,14,,,,1,0
+linescore,hteam,32,44,:,76
+sources,Los Angeles Times & Long Beach Press-Telegram
+issues,LA Times lists Carson with 0 fouls and 4 points; Webb with 2 fouls and 0 points. But both players made 0 FG and 2 FT. Press-Telegram agrees with FG/FT figures but corrects Carson to 2 fouls and 2 points, and Webb to 0 fouls and 2 points. 
+
+gamebxt
+version,1
+info,date,03/15/1973
+info,dayofweek,Thursday
+info,rteam,Arizona State Sun Devils
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,NCAA West Regional Semifinal
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12361
+info,ref,Reggie Copeland
+info,ref,Charles Fouty
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+info,techs,Arizona State bench 2
+coach,rteam,ned-wulk-1,Ned,Wulk,0
+stat,rteam,player,ken-gray-99,Ken,Gray,,2,4,0,1,,,4,,2,2,0,,,,0
+stat,rteam,player,mark-wasley-99,Mark,Wasley,,3,8,0,0,,,6,,10,1,1,,,,0
+stat,rteam,player,ron-kennedy-99,Ron,Kennedy,,2,7,5,6,,,9,,8,5,5,,,,0
+stat,rteam,player,mike-contreras-99,Mike,Contreras,,9,20,0,0,,,18,,4,1,3,,,,0
+stat,rteam,player,jim-owens-99,Jim,Owens,,8,20,6,8,,,22,,4,1,2,,,,0
+stat,rteam,player,rudy-white-99,Rudy,White,,3,6,0,0,,,6,,2,0,0,,,,0
+stat,rteam,player,gary-jackson-99,Gary,Jackson,,3,8,4,6,,,10,,4,1,3,,,,0
+stat,rteam,player,james-brown-99,James,Brown,,2,6,2,3,,,6,,6,0,2,,,,0
+stat,rteam,player,jack-schrader-99,Jack,Schrader,,0,1,0,0,,,0,,3,1,1,,,,0
+stat,rteam,player,mike-moon-99,Mike,Moon,,0,2,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,32,82,17,24,,,81,,48,12,17,,,,4,0
+linescore,rteam,37,44,:,81
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,14,0,0,,,12,,10,1,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,10,0,0,,,10,,4,0,2,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,13,18,2,2,,,28,,14,6,3,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,9,16,2,2,,,20,,5,6,3,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,2,1,1,,,3,,0,4,0,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,2,3,3,3,,,7,,1,5,2,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,2,3,2,3,,,6,,5,4,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,2,5,0,2,,,4,,2,0,2,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,0,0,0,2,,,0,,1,1,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,1,2,0,0,,,2,,2,1,0,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,2,5,0,0,,,4,,2,1,0,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,2,0,0,,,0,,0,0,2,,,,0
+stat,hteam,player,casey-corliss-1,Casey,Corliss,,0,0,2,2,,,2,,0,0,1,,,,0
+stat,hteam,player,ralph-drollinger-1,Ralph,Drollinger,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,hteam,,43,80,12,17,,,98,,51,29,19,,,,5,0
+linescore,hteam,51,47,:,98
+sources,Los Angeles Times and Sports Reference
+
+gamebxt
+version,1
+info,date,03/17/1973
+info,dayofweek,Saturday
+info,rteam,San Francisco Dons
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,NCAA West Regional Final
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12705
+info,ref,Art White
+info,ref,Reggie Copeland
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,bob-gaillard-1,Bob,Gaillard,0
+stat,rteam,player,kevin-restani-99,Kevin,Restani,,4,11,0,0,,,8,,9,2,0,,,,0
+stat,rteam,player,phil-smith-99,Phil,Smith,,8,13,1,1,,,17,,3,1,0,,,,0
+stat,rteam,player,eric-fernsten-99,Eric,Fernsten,,2,5,0,0,,,4,,8,0,3,,,,0
+stat,rteam,player,mike-quick-99,Mike,Quick,,4,9,0,0,,,8,,2,1,1,,,,0
+stat,rteam,player,john-boro-99,John,Boro,,0,3,2,2,,,2,,0,1,3,,,,0
+tstat,rteam,,18,41,3,3,,,39,,26,5,7,,,,4,0
+linescore,rteam,22,17,:,39
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,6,13,0,0,,,12,,1,1,0,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,10,3,3,,,13,,4,1,0,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,4,7,1,2,,,9,,14,2,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,3,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,1,4,0,0,,,2,,1,0,0,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,1,3,0,0,,,2,,3,1,3,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,6,9,0,1,,,12,,1,4,1,,,,0
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,2,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,1,2,0,0,,,2,,2,0,0,,,,0
+stat,hteam,player,vince-carson-1,Vince,Carson,,0,0,0,0,,,0,,1,0,1,,,,0
+stat,hteam,player,bob-webb-1,Bob,Webb,,0,1,0,0,,,0,,0,0,1,,,,0
+stat,hteam,player,pete-trgovich-1,Pete,Trgovich,,1,2,0,0,,,2,,0,0,0,,,,0
+tstat,hteam,,25,56,4,6,,,54,,30,9,6,,,,1,0
+linescore,hteam,23,31,:,54
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,03/24/1973
+info,dayofweek,Saturday
+info,rteam,Indiana Hoosiers
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA National Semifinal
+info,arena,St. Louis Arena
+info,city,St. Louis
+info,state,Missouri
+info,country,United States
+info,attendance,19029
+info,ref,Joe Shosid
+info,ref,Jim Howell
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,bob-knight-1,Bob,Knight,1
+stat,rteam,player,john-ritter-99,John,Ritter,,6,10,1,1,,,13,,2,6,3,,,,0
+stat,rteam,player,steve-green-99,Steve,Green,,1,7,0,0,,,2,,5,2,2,,,,0
+stat,rteam,player,steve-downing-99,Steve,Downing,,12,20,2,4,,,26,,5,2,5,,,,0
+stat,rteam,player,quinn-buckner-99,Quinn,Buckner,,3,10,0,1,,,6,,5,4,2,,,,0
+stat,rteam,player,jim-crews-99,Jim,Crews,,4,10,0,0,,,8,,2,2,3,,,,0
+stat,rteam,player,john-laskowski-99,John,Laskowski,,1,8,0,0,,,2,,4,1,0,,,,0
+stat,rteam,player,tom-abernethy-99,Tom,Abernethy,,0,1,0,0,,,0,,1,0,1,,,,0
+stat,rteam,player,trent-smock-99,Trent,Smock,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,don-noort-99,Don,Noort,,0,0,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,frank-wilson-99,Frank,Wilson,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,craig-morris-99,Craig,Morris,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,steve-ahlfeld-99,Steve,Ahlfeld,,0,0,0,0,,,0,,0,1,0,,,,0
+stat,rteam,player,douglas-allen-99,Douglas,Allen,,1,1,0,0,,,2,,0,0,0,,,,0
+stat,rteam,player,jerry-memering-99,Jerry,Memering,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,28,67,3,6,,,59,,29,18,16,,,,4,0
+linescore,rteam,22,37,:,59
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,5,10,3,4,,,13,,6,1,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,3,6,1,2,,,7,,3,0,4,,,,0
+stat,hteam,player,bill-walton-1,Bill,Walton,,7,12,0,0,,,14,,17,9,4,,,,0
+stat,hteam,player,greg-lee-2,Greg,Lee,,0,1,0,0,,,0,,0,1,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,5,6,0,0,,,10,,2,2,1,,,,0
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,,9,15,4,7,,,22,,2,4,2,,,,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,,2,3,0,0,,,4,,5,0,1,,,,1
+stat,hteam,player,swen-nater-1,Swen,Nater,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,hteam,,31,53,8,13,,,70,,38,17,16,,,,3,1
+linescore,hteam,40,30,:,70
+sources,Los Angeles Times and Sports Reference
+
+
+
+gamebxt
+version,1
+info,date,03/26/1973
+info,dayofweek,Monday
+info,rteam,Memphis State Tigers
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA Regional Final
+info,arena,St. Louis Arena
+info,city,St. Louis
+info,state,Missouri
+info,country,United States
+info,attendance,19301
+info,ref,Jim Howell
+info,ref,Joe Shosid
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,gene-bartow-1,Gene,Bartow,0
+stat,rteam,player,larry-finch-99,Larry,Finch,38,9,21,11,13,,,29,,1,2,2,0,2,0,0
+stat,rteam,player,billy-buford-99,Billy,Buford,38,3,7,1,2,,,7,,3,1,1,0,0,0,0
+stat,rteam,player,larry-kenon-99,Larry,Kenon,34,8,16,4,4,,,20,,8,3,3,1,2,0,1
+stat,rteam,player,ronnie-robinson-99,Ronnie,Robinson,33,3,6,0,1,,,6,,7,1,4,0,1,0,0
+stat,rteam,player,bill-laurie-99,Bill,Laurie,21,0,1,0,0,,,0,,0,2,0,0,0,0,0
+stat,rteam,player,bill-cook-99,Bill,Cook,17,1,4,2,2,,,4,,0,2,1,0,2,0,0
+stat,rteam,player,wes-westfall-99,Wes,Westfall,10,0,1,0,0,,,0,,0,0,5,0,1,0,0
+stat,rteam,player,clarence-jones-99,Clarence,Jones,4,0,0,0,0,,,0,,0,0,0,0,0,0,0
+stat,rteam,player,ken-andrews-99,Ken,Andrews,1,0,0,0,0,,,0,,0,00,0,0,0,0,0
+stat,rteam,player,jim-liss-99,Jim,Liss,1,0,1,0,0,,,0,,0,0,0,0,0,0,0
+stat,rteam,player,doug-mckinney-99,Doug,McKinney,1,0,0,0,0,,,0,,0,0,0,0,0,0,0
+stat,rteam,player,jerry-tetzlaff-99,Jerry,Tetzlaff,1,0,0,0,2,,,0,,0,0,1,0,0,0,0
+tstat,rteam,200,24,57,18,24,,,66,,21,11,17,1,8,0,2,1
+linescore,rteam,39,27,:,66
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,39,8,14,0,0,,,16,,7,1,2,0,4,1,0
+stat,hteam,player,greg-lee-2,Greg,Lee,34,1,1,3,3,,,5,,3,14,2,0,3,0,0
+stat,hteam,player,bill-walton-1,Bill,Walton,33,21,22,2,5,,,44,,13,2,4,1,6,0,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,33,1,4,0,0,,,2,,2,0,2,1,2,0,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,30,4,7,0,0,,,8,,3,9,4,1,0,1,1
+stat,hteam,player,tommy-curtis-1,Tommy,Curtis,11,1,4,2,2,,,4,,3,0,1,2,0,0,0
+stat,hteam,player,dave-meyers-1,Dave,Meyers,10,2,7,0,0,,,4,,3,0,1,0,2,0,0
+stat,hteam,player,swen-nater-1,Swen,Nater,7,1,1,0,0,,,2,,3,0,2,0,0,0,0
+stat,hteam,player,gary-franklin-2,Gary,Franklin,1,1,2,0,1,,,2,,1,0,0,0,0,0,0
+stat,hteam,player,vince-carson-1,Vince,Carson,1,0,0,0,0,,,0,,0,0,0,0,0,0,0
+stat,hteam,player,bob-webb-1,Bob,Webb,1,0,0,0,0,,,0,,0,0,0,0,0,0,0
+tstat,hteam,200,40,62,7,11,,,87,,40,26,18,5,17,2,2,1
+linescore,hteam,39,48,:,87
+sources,Los Angeles Times and Sports Reference
