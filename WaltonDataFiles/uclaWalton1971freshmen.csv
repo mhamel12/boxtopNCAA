@@ -1,0 +1,931 @@
+
+gamebxt
+version,1
+info,date,12/04/1970
+info,dayofweek,Friday
+info,rteam,El Camino College Warriors
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Jones,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Peet,,,,,,,,14,,,,,,,,
+stat,rteam,player,,,Ulvan,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Montague,,,,,,,,3,,,,,,,,
+stat,rteam,player,,,Anderson,,,,,,,,7,,,,,,,,
+stat,rteam,player,,,Neal,,,,,,,,10,,,,,,,,
+stat,rteam,player,,,Birch,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Moberly,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Richardson,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Wood,,,,,,,,3,,,,,,,,
+tstat,rteam,,,,,,,,57,,,,,,,,,
+linescore,rteam,18,39,:,57
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,9,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,20,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,9,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,25,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,2,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,6,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,4,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,2,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,1,,,,,,,,
+tstat,hteam,,,,,,,,78,,,,,,,,,
+linescore,hteam,30,48,:,78
+sources,Long Beach Press-Telegram
+
+gamebxt
+version,1
+info,date,12/05/1970
+info,dayofweek,Saturday
+info,rteam,San Fernando Valley State Matadors
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 28 rebounds, 8 assists, 7 blocks. In 1972, San Fernando Valley State adopted its current name of California State University, Northridge.
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Christianson,,,,,,,,2,,,,,,,,
+stat,rteam,player,j-boss-99,J,Boss,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Nathanson,,,,,,,,0,,,,,,,,
+stat,rteam,player,,,Scyphers,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Miller,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Polan,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Robins,,,,,,,,4,,,,,,,,
+stat,rteam,player,d-boss-99,D,Boss,,,,,,,,7,,,,,,,,
+stat,rteam,player,,,Abrams,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Warren,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Hickey,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,60,,,,,,,,,
+linescore,rteam,28,32,:,60
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,21,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,8,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,11,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,7,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,16,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,25,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,5,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,5,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,4,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,4,,,,,,,,
+tstat,hteam,,,,,,,,106,,,,,,,,,
+linescore,hteam,56,50,:,106
+sources,Los Angeles Times & Long Beach Press-Telegram
+
+gamebxt
+version,1
+info,date,12/11/1970
+info,dayofweek,Friday
+info,rteam,Glendale College Vaqs
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 16 rebounds, 7 assists, 6 blocks
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Hidas,,,,,,,,12,,,,,,,,
+stat,rteam,player,,,Halverson,,,,,,,,3,,,,,,,,
+stat,rteam,player,,,Manners,,,,,,,,5,,,,,,,,
+stat,rteam,player,,,Sabins,,,,,,,,24,,,,,,,,
+stat,rteam,player,,,Whiteley,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Waisgerber,,,,,,,,8,,,,,,,,
+stat,rteam,player,,,Huffman,,,,,,,,7,,,,,,,,
+stat,rteam,player,,,Metz,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Hegemier,,,,,,,,6,,,,,,,,
+tstat,rteam,,,,,,,,73,,,,,,,,,
+linescore,rteam,38,35,:,73
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,24,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,16,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,20,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,16,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,12,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,22,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,3,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,1,,,,,,,,
+tstat,hteam,,,,,,,,114,,,,,,,,,
+linescore,hteam,55,59,:,114
+sources,Long Beach Press-Telegram
+
+gamebxt
+version,1
+info,date,12/12/1970
+info,dayofweek,Saturday
+info,rteam,Los Angeles City College Cubs
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Allen,,,,,,,,10,,,,,,,,
+stat,rteam,player,,,Estes,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Caldwell,,,,,,,,15,,,,,,,,
+stat,rteam,player,,,Clayton,,,,,,,,8,,,,,,,,
+stat,rteam,player,,,Cox,,,,,,,,18,,,,,,,,
+stat,rteam,player,,,Mays,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Shanks,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Duncaon,,,,,,,,2,,,,,,,,
+stat,rteam,player,r-jackson-99,R,Jackson,,,,,,,,1,,,,,,,,
+tstat,rteam,,,,,,,,66,,,,,,,,,
+linescore,rteam,30,36,:,66
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,17,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,22,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,13,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,12,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,18,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,10,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,6,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,100,,,,,,,,,
+linescore,hteam,42,58,:,100
+sources,Long Beach Independent & Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/02/1971
+info,dayofweek,Saturday
+info,rteam,West Los Angeles College Wildcats
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 23 rebounds, 9 blocks, 4 assists
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Cawthorn,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Ferguson,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Hendrix,,,,,,,,17,,,,,,,,
+stat,rteam,player,,,Johnson,,,,,,,,22,,,,,,,,
+stat,rteam,player,,,Gisis,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Moore,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Rendler,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Perkal,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,70,,,,,,,,,
+linescore,rteam,32,38,:,70
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,17,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,19,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,16,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,21,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,12,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,15,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,5,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,4,,,,,,,,
+tstat,hteam,,,,,,,,109,,,,,,,,,
+linescore,hteam,53,56,:,109
+sources,Long Beach Press-Telegram
+
+gamebxt
+version,1
+info,date,01/08/1971
+info,dayofweek,Friday
+info,rteam,Chaffey Junior College Panthers
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,05:45PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 22 rebounds and 7 blocks
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Crossman,,1,,0,,,,2,,,,,,,,
+stat,rteam,player,,,Bolin,,3,,0,,,,6,,,,,,,,
+stat,rteam,player,,,Bailey,,6,,5,,,,17,,,,,,,,
+stat,rteam,player,,,Beckley,,2,,0,,,,4,,,,,,,,
+stat,rteam,player,,,Hay,,4,,1,,,,9,,,,,,,,
+stat,rteam,player,,,Mackie,,2,,0,,,,4,,,,,,,,
+stat,rteam,player,,,Horn,,1,,1,,,,3,,,,,,,,
+stat,rteam,player,,,Garcia,,0,,3,,,,3,,,,,,,,
+stat,rteam,player,,,Arner,,1,,0,,,,2,,,,,,,,
+stat,rteam,player,,,Toomay,,0,,1,,,,1,,,,,,,,
+tstat,rteam,,20,,11,,,,51,,,,,,,,,
+linescore,rteam,26,25,:,51
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,vince-carson-1,Vince,Carson,,5,,2,,,,12,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,12,,2,,,,26,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,10,,0,,,,20,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,9,,4,,,,22,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,5,,2,,,,12,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,5,,0,,,,10,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,5,,0,,,,10,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,4,,0,,,,8,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,2,,2,,,,6,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,1,,0,,,,2,,,,,,,,
+tstat,hteam,,58,,12,,,,128,,,,,,,,,
+linescore,hteam,64,64,:,128
+sources,Long Beach Independent & San Bernardino County Sun & Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/09/1971
+info,dayofweek,Saturday
+info,rteam,Antelope Valley College Marauders
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,05:45PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 14 rebounds and 9 blocks
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Dent,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Didier,,,,,,,,1,,,,,,,,
+stat,rteam,player,,,Stancil,,,,,,,,21,,,,,,,,
+stat,rteam,player,,,Borgardt,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Zerr,,,,,,,,8,,,,,,,,
+stat,rteam,player,,,Hahl,,,,,,,,10,,,,,,,,
+stat,rteam,player,,,Stucke,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,55,,,,,,,,,
+linescore,rteam,25,30,:,55
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,22,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,14,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,26,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,10,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,22,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,16,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,8,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,5,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,4,,,,,,,,
+tstat,hteam,,,,,,,,127,,,,,,,,,
+linescore,hteam,61,66,:,127
+sources,Long Beach Independent & Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/15/1971
+info,dayofweek,Friday
+info,rteam,UC Riverside Highlanders freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,1300
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Walters,,,,,,,,17,,,,,,,,
+stat,rteam,player,,,Smith,,,,,,,,26,,,,,,,,
+stat,rteam,player,,,Wheeler,,,,,,,,5,,,,,,,,
+stat,rteam,player,,,Michaels,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Stringer,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Browder,,,,,,,,1,,,,,,,,
+stat,rteam,player,,,Wolfe,,,,,,,,17,,,,,,,,
+tstat,rteam,,,,,,,,76,,,,,,,,,
+linescore,rteam,39,37,:,76
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,18,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,15,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,30,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,12,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,11,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,14,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,13,,,,,,,,
+stat,hteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,10,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,125,,,,,,,,,
+linescore,hteam,64,61,:,125
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/22/1971
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Pierce College Brahmas
+info,neutralsite,
+info,title,
+info,arena,Pierce College Gym
+info,city,Woodland Hills
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 8-for-9 FG
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,greg-lee-2,Greg,Lee,,7,,3,,,,17,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,4,,6,,,,14,,,,,,,,
+stat,rteam,player,vince-carson-1,Vince,Carson,,0,,2,,,,2,,,,,,,,
+stat,rteam,player,dave-cumberland-1,Dave,Cumberland,,1,,0,,,,2,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,8,,2,,,,18,,,,,,,,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,5,,0,,,,10,,,,,,,,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,7,,0,,,,14,,,,,,,,
+tstat,rteam,,32,,13,,,,77,,,,,,,,,
+linescore,rteam,35,42,:,77
+coach,hteam,ken-stanley-1,Ken,Stanley,
+stat,hteam,player,mario-rojas-99,Mario,Rojas,,5,,6,,,,16,,,,,,,,
+stat,hteam,player,hayes-pullard-99,Hayes,Pullard,,6,,0,,,,12,,,,,,,,
+stat,hteam,player,glenn-perica-99,Glenn,Perica,,4,,1,,,,9,,,,,,,,
+stat,hteam,player,paul-appel-99,Paul,Appel,,0,,0,,,,0,,,,,,,,
+stat,hteam,player,dan-basmagian-99,Dan,Basmagian,,1,,0,,,,2,,,,,,,,
+stat,hteam,player,bruce-gomez-99,Bruce,Gomez,,0,,0,,,,0,,,,,,,,
+stat,hteam,player,danny-smith-99,Danny,Smith,,1,,0,,,,2,,,,,,,,
+stat,hteam,player,george-weider-99,George,Weider,,3,,4,,,,10,,,,,,,,
+stat,hteam,player,eric-gobble-99,Eric,Gobble,,0,,0,,,,0,,,,,,,,
+stat,hteam,player,landers-hubbard-99,Landers,Hubbard,,4,,2,,,,10,,,,,,,,
+tstat,hteam,,24,,13,,,,61,,,,,,,,,
+linescore,hteam,34,27,:,61
+sources,Van Nuys Valley News
+
+gamebxt
+version,1
+info,date,01/23/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Moorpark College Raiders
+info,neutralsite,
+info,title,
+info,arena,Moorpark College Gym
+info,city,Moorpark
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,vince-carson-1,Vince,Carson,,,,,,,,15,,,,,,,,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,14,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,,,,,,,14,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,6,,,,,,,,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,25,,,,,,,,
+stat,rteam,player,greg-lee-2,Greg,Lee,,,,,,,,13,,,,,,,,
+stat,rteam,player,oscar-roan-1,Oscar,Roan,,,,,,,,4,,,,,,,,
+stat,rteam,player,ron-werft-1,Ron,Werft,,,,,,,,2,,,,,,,,
+stat,rteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,1,,,,,,,,
+tstat,rteam,,,,,,,,94,,,,,,,,,
+linescore,rteam,38,56,:,94
+coach,hteam,,,,
+stat,hteam,player,jim-earl-99,Jim,Earl,,,,,,,,9,,,,,,,,
+stat,hteam,player,,,Rucker,,,,,,,,8,,,,,,,,
+stat,hteam,player,,,Denny,,,,,,,,11,,,,,,,,
+stat,hteam,player,carl-womack-99,Carl,Womack,,,,,,,,20,,,,,,,,
+stat,hteam,player,,,McCourt,,,,,,,,16,,,,,,,,
+stat,hteam,player,,,Brendon,,,,,,,,2,,,,,,,,
+stat,hteam,player,,,Robb,,,,,,,,2,,,,,,,,
+stat,hteam,player,,,Austin,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,70,,,,,,,,,
+linescore,hteam,30,40,:,70
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/29/1971
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Cal State Los Angeles Diablos freshmen
+info,neutralsite,
+info,title,
+info,arena,Eagle's Nest Arena
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,UCLA outrebounded Cal State 75-42
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,17,,,,,,,,
+stat,rteam,player,vince-carson-1,Vince,Carson,,,,,,,,11,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,,,,,,,19,,,,,,,,
+stat,rteam,player,greg-lee-2,Greg,Lee,,,,,,,,17,,,,,,,,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,26,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,11,,,,,,,,
+stat,rteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,2,,,,,,,,
+stat,rteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,105,,,,,,,,,
+linescore,rteam,52,53,:,105
+coach,hteam,,,,
+stat,hteam,player,,,Scott,,,,,,,,12,,,,,,,,
+stat,hteam,player,,,Reeda,,,,,,,,18,,,,,,,,
+stat,hteam,player,,,Brigham,,,,,,,,23,,,,,,,,
+stat,hteam,player,,,Bonner,,,,,,,,17,,,,,,,,
+stat,hteam,player,,,Johnson,,,,,,,,2,,,,,,,,
+stat,hteam,player,,,Boutte,,,,,,,,1,,,,,,,,
+tstat,hteam,,,,,,,,73,,,,,,,,,
+linescore,hteam,50,23,:,73
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/30/1971
+info,dayofweek,Saturday
+info,rteam,UC Santa Barbara Gauchos freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Wilkes 16 rebounds
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Glass,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Hart,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Secor,,,,,,,,28,,,,,,,,
+stat,rteam,player,,,Wascoe,,,,,,,,0,,,,,,,,
+stat,rteam,player,,,Brodek,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Petersmeyer,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Smith,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,53,,,,,,,,,
+linescore,rteam,25,28,:,53
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,26,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,10,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,19,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,20,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,14,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,17,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,4,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,3,,,,,,,,
+tstat,hteam,,,,,,,,113,,,,,,,,,
+linescore,hteam,63,50,:,113
+sources,Los Angeles Times and Long Beach Independent
+
+gamebxt
+version,1
+info,date,02/06/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,USC Trojans freshmen
+info,neutralsite,
+info,title,
+info,arena,Los Angeles Sports Arena
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,12,,,,,,,,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,18,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,,,,,,,17,,,,,,,,
+stat,rteam,player,greg-lee-2,Greg,Lee,,,,,,,,13,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,8,,,,,,,,
+stat,rteam,player,vince-carson-1,Vince,Carson,,,,,,,,10,,,,,,,,
+tstat,rteam,,,,,,,,78,,,,,,,,,
+linescore,rteam,40,38,:,78
+coach,hteam,,,,
+stat,hteam,player,,,Palmer,,,,,,,,6,,,,,,,,
+stat,hteam,player,,,Emett,,,,,,,,1,,,,,,,,
+stat,hteam,player,,,Westra,,,,,,,,4,,,,,,,,
+stat,hteam,player,brian-heublein-99,Brian,Heublein,,,,,,,,26,,,,,,,,
+stat,hteam,player,,,Owens,,,,,,,,10,,,,,,,,
+stat,hteam,player,,,Olson,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,49,,,,,,,,,
+linescore,hteam,22,27,:,49
+sources,Los Angeles Times and Long Beach Press-Telegram
+
+
+gamebxt
+version,1
+info,date,02/13/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,San Diego Mesa College Olympians
+info,neutralsite,
+info,title,
+info,arena,
+info,city,San Diego
+info,state,California
+info,country,United States
+info,attendance,1300
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,12,,3,4,,,27,,,,,,,,
+stat,rteam,player,vince-carson-1,Vince,Carson,,9,,2,3,,,20,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,13,,3,3,,,29,,,,,,,,
+stat,rteam,player,greg-lee-2,Greg,Lee,,7,,5,5,,,19,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,7,,0,0,,,14,,,,,,,,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,5,,3,7,,,13,,,,,,,,
+stat,rteam,player,dave-cumberland-1,Dave,Cumberland,,3,,4,5,,,10,,,,,,,,
+tstat,rteam,,56,,20,27,,,132,,,,,,,,,
+linescore,rteam,65,67,:,132
+coach,hteam,,,,
+stat,hteam,player,don-mccormick-99,Don,McCormick,,10,,3,4,,,23,,,,,,,,
+stat,hteam,player,,,Gallagher,,4,,8,8,,,16,,,,,,,,
+stat,hteam,player,,,Solliday,,3,,3,7,,,9,,,,,,,,
+stat,hteam,player,,,Greenman,,5,,0,0,,,10,,,,,,,,
+stat,hteam,player,,,Reed,,8,,2,2,,,18,,,,,,,,
+stat,hteam,player,,,Scott,,2,,0,0,,,4,,,,,,,,
+stat,hteam,player,,,Cohen,,4,,1,1,,,9,,,,,,,,
+stat,hteam,player,,,Hilke,,1,,0,0,,,2,,,,,,,,
+stat,hteam,player,,,Arsenault,,2,,0,0,,,4,,,,,,,,
+tstat,hteam,,39,,17,22,,,95,,,,,,,,,
+linescore,hteam,41,54,:,95
+sources,San Diego Union
+
+
+gamebxt
+version,1
+info,date,02/19/1971
+info,dayofweek,Friday
+info,rteam,Pepperdine Waves freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Johnson,,,,,,,,10,,,,,,,,
+stat,rteam,player,,,Wilson,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Kraly,,,,,,,,20,,,,,,,,
+stat,rteam,player,,,Braunecker,,,,,,,,4,,,,,,,,
+stat,rteam,player,bird-averitt-99,Bird,Averitt,,,,,,,,43,,,,,,,,
+tstat,rteam,,,,,,,,86,,,,,,,,,
+linescore,rteam,41,45,:,86
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,18,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,11,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,25,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,15,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,10,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,14,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,8,,,,,,,,
+tstat,hteam,,,,,,,,101,,,,,,,,,
+linescore,hteam,56,45,:,101
+sources,Los Angeles Times and Long Beach Independent
+
+gamebxt
+version,1
+info,date,02/20/1971
+info,dayofweek,Saturday
+info,rteam,Cypress College Chargers
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Walton 19 rebounds
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Childs,,,,,,,,8,,,,,,,,
+stat,rteam,player,,,Storm,,,,,,,,0,,,,,,,,
+stat,rteam,player,,,Darnell,,,,,,,,8,,,,,,,,
+stat,rteam,player,,,Lee,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Nygard,,,,,,,,7,,,,,,,,
+stat,rteam,player,,,Edwards,,,,,,,,12,,,,,,,,
+stat,rteam,player,,,Webster,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Redington,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Holmquist,,,,,,,,1,,,,,,,,
+stat,rteam,player,,,Nycum,,,,,,,,1,,,,,,,,
+tstat,rteam,,,,,,,,54,,,,,,,,,
+linescore,rteam,24,30,:,54
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,16,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,15,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,12,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,14,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,21,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,14,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,8,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,102,,,,,,,,,
+linescore,hteam,42,60,:,102
+sources,Los Angeles Times and Long Beach Independent
+
+gamebxt
+version,1
+info,date,02/27/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Hancock College Bulldogs
+info,neutralsite,
+info,title,
+info,arena,Hancock College Sports Pavilion
+info,city,Santa Maria
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Roth 9 rebounds
+info,prelim,
+info,event,
+coach,rteam,gary-cunningham-1,Gary,Cunningham,
+stat,rteam,player,vince-carson-1,Vince,Carson,,,,,,,,17,,,,,,,,
+stat,rteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,22,,,,,,,,
+stat,rteam,player,bill-walton-1,Bill,Walton,,,,,,,,18,,,,,,,,
+stat,rteam,player,greg-lee-2,Greg,Lee,,,,,,,,23,,,,,,,,
+stat,rteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,6,,,,,,,,
+stat,rteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,21,,,,,,,,
+stat,rteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,4,,,,,,,,
+stat,rteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,4,,,,,,,,
+tstat,rteam,,,,,,,,115,,,,,,,,,
+linescore,rteam,60,55,:,115
+coach,hteam,,,,
+stat,hteam,player,john-roth-99,John,Roth,,,,,,,,23,,,,,,,,
+stat,hteam,player,,,Vivian,,,,,,,,5,,,,,,,,
+stat,hteam,player,,,Peoples,,,,,,,,6,,,,,,,,
+stat,hteam,player,,,Cowell,,,,,,,,0,,,,,,,,
+stat,hteam,player,,,O'Brien,,,,,,,,8,,,,,,,,
+stat,hteam,player,,,Pedersen,,,,,,,,7,,,,,,,,
+stat,hteam,player,,,Lockard,,,,,,,,5,,,,,,,,
+stat,hteam,player,guy-harding-99,Guy,Harding,,,,,,,,13,,,,,,,,
+tstat,hteam,,,,,,,,67,,,,,,,,,
+linescore,hteam,30,37,:,67
+sources,Santa Maria Times
+
+gamebxt
+version,1
+info,date,03/05/1971
+info,dayofweek,Friday
+info,rteam,Pepperdine Waves freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Wilson,,,,,,,,16,,,,,,,,
+stat,rteam,player,,,Johnson,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Kraly,,,,,,,,6,,,,,,,,
+stat,rteam,player,bird-averitt-99,Bird,Averitt,,,,,,,,44,,,,,,,,
+stat,rteam,player,,,Braunecker,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Wheat,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Dunn,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,81,,,,,,,,,
+linescore,rteam,30,51,:,81
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,18,,,,,,,,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,15,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,19,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,22,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,8,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,10,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,4,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,3,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,101,,,,,,,,,
+linescore,hteam,51,50,:,101
+sources,Long Beach Press-Telegram and Los Angeles Times
+
+gamebxt
+version,1
+info,date,03/06/1971
+info,dayofweek,Saturday
+info,rteam,San Diego State Aztecs freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Evans,,,,,,,,11,,,,,,,,
+stat,rteam,player,,,Tassielli,,,,,,,,13,,,,,,,,
+stat,rteam,player,,,Stanley,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Gottschalk,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Volk,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Brown,,,,,,,,7,,,,,,,,
+stat,rteam,player,,,Laird,,,,,,,,6,,,,,,,,
+stat,rteam,player,,,Adams,,,,,,,,2,,,,,,,,
+stat,rteam,player,,,Martin,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,58,,,,,,,,,
+linescore,rteam,22,36,:,58
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,20,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,13,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,17,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,10,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,20,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,16,,,,,,,,
+stat,hteam,player,dave-cumberland-1,Dave,Cumberland,,,,,,,,4,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,4,,,,,,,,
+tstat,hteam,,,,,,,,104,,,,,,,,,
+linescore,hteam,51,53,:,104
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,03/13/1971
+info,dayofweek,Saturday
+info,rteam,USC Trojans freshmen
+info,hteam,UCLA Bruins
+info,neutralsite,
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,,,,
+stat,rteam,player,,,Owens,,,,,,,,11,,,,,,,,
+stat,rteam,player,,,Palmer,,,,,,,,9,,,,,,,,
+stat,rteam,player,,,Westra,,,,,,,,13,,,,,,,,
+stat,rteam,player,brian-heublein-99,Brian,Heublein,,,,,,,,17,,,,,,,,
+stat,rteam,player,,,Perry,,,,,,,,0,,,,,,,,
+stat,rteam,player,,,Olson,,,,,,,,5,,,,,,,,
+stat,rteam,player,,,Lopresti,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Emett,,,,,,,,4,,,,,,,,
+stat,rteam,player,,,Cook,,,,,,,,2,,,,,,,,
+tstat,rteam,,,,,,,,65,,,,,,,,,
+linescore,rteam,32,33,:,65
+coach,hteam,gary-cunningham-1,Gary,Cunningham,
+stat,hteam,player,jamaal-wilkes-1,Jamaal,Wilkes,,,,,,,,20,,,,,,,,
+stat,hteam,player,vince-carson-1,Vince,Carson,,,,,,,,11,,,,,,,,
+stat,hteam,player,bill-walton-1,Bill,Walton,,,,,,,,8,,,,,,,,
+stat,hteam,player,greg-lee-2,Greg,Lee,,,,,,,,16,,,,,,,,
+stat,hteam,player,hank-babcock-1,Hank,Babcock,,,,,,,,17,,,,,,,,
+stat,hteam,player,gary-franklin-2,Gary,Franklin,,,,,,,,10,,,,,,,,
+stat,hteam,player,nels-tahti-1,Nels,Tahti,,,,,,,,2,,,,,,,,
+stat,hteam,player,ron-werft-1,Ron,Werft,,,,,,,,2,,,,,,,,
+tstat,hteam,,,,,,,,86,,,,,,,,,
+linescore,hteam,48,38,:,86
+sources,Los Angeles Times and Long Beach Independent

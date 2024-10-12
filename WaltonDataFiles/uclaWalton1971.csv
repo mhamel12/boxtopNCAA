@@ -1,1 +1,1471 @@
 
+gamebxt
+version,1
+info,date,12/04/1970
+info,dayofweek,Friday
+info,rteam,Baylor Bears
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12433
+info,ref,George Selleck
+info,ref,Bob Herrold
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,Bill-Menefee-1,Bill,Menefee,0
+stat,rteam,player,thomas-friedman-99,Thomas,Friedman,,1,10,2,3,,,4,,8,,4,,,,1
+stat,rteam,player,robert-thompson-99,Robert,Thompson,,4,12,1,1,,,9,,6,,2,,,,0
+stat,rteam,player,bill-chatmon-99,Bill,Chatmon,,9,20,3,4,,,21,,7,,1,,,,0
+stat,rteam,player,tom-stanton-99,Tom,Stanton,,5,12,3,3,,,13,,5,,3,,,,0
+stat,rteam,player,jerryjoe-hopkins-99,Jerry Joe,Hopkins,,2,8,3,4,,,7,,7,,4,,,,0
+stat,rteam,player,pat-fees-99,Pat,Fees,,6,9,1,1,,,13,,4,,3,,,,0
+stat,rteam,player,roy-thomas-99,Roy,Thomas,,5,14,0,1,,,10,,5,,4,,,,0
+stat,rteam,player,richard-garner-99,Richard,Garner,,0,1,0,0,,,0,,2,,0,,,,0
+stat,rteam,player,keith-curlee-99,Keith,Curlee,,0,1,0,0,,,0,,0,,1,,,,0
+stat,rteam,player,steve-baldwin-99,Steve,Baldwin,,0,1,0,0,,,0,,0,,1,,,,0
+stat,rteam,player,randy-lee-99,Randy,Lee,,0,1,0,1,,,0,,0,,0,,,,0
+tstat,rteam,,32,89,13,18,,,77,,59,,23,,,,15,1
+linescore,rteam,37,40,:,77
+coach,hteam,John-Wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,6,12,5,8,,,17,,7,,0,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,10,16,0,0,,,20,,13,,0,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,8,19,1,1,,,17,,12,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,5,9,5,5,,,15,,3,,4,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,2,5,0,1,,,4,,1,,0,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,11,1,2,,,7,,1,,1,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,3,5,4,4,,,10,,5,,2,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,0,0,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,4,12,3,5,,,11,,8,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,4,0,2,,,0,,5,,3,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,1,1,4,,,1,,1,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,3,4,0,0,,,6,,0,,1,,,,0
+tstat,hteam,,44,98,20,32,,,108,,69,,15,,,,13,0
+linescore,hteam,55,53,:,108
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,12/05/1970
+info,dayofweek,Saturday
+info,rteam,Rice Owls
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12315
+info,ref,Mel Ross
+info,ref,Bob Herrold
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,Don-Knodel-1,Don,Knodel,0
+stat,rteam,player,bert-schmidt-99,Bert,Schmidt,,3,8,1,2,,,7,,9,,3,,,,0
+stat,rteam,player,ted-melady-99,Ted,Melady,,2,9,3,3,,,7,,5,,3,,,,0
+stat,rteam,player,terry-timmerman-99,Terry,Timmerman,,1,1,1,2,,,3,,8,,5,,,,0
+stat,rteam,player,tom-myer-99,Tom,Myer,,15,25,1,1,,,31,,3,,1,,,,0
+stat,rteam,player,gary-reist-99,Gary,Reist,,6,21,5,6,,,17,,0,,3,,,,0
+stat,rteam,player,mark-wehrle-99,Mark,Wehrle,,2,10,2,2,,,6,,5,,4,,,,0
+stat,rteam,player,don-snyder-99,Don,Snyder,,1,3,0,0,,,2,,1,,0,,,,0
+stat,rteam,player,perry-gaudet-99,Perry,Gaudet,,0,2,1,1,,,1,,0,,0,,,,0
+stat,rteam,player,john-mott-99,John,Mott,,1,1,0,1,,,2,,1,,0,,,,0
+stat,rteam,player,chuck-nelson-99,Chuck,Nelson,,0,1,0,0,,,0,,1,,1,,,,0
+stat,rteam,player,dale-johnson-99,Dale,Johnson,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,randy-reynolds-99,Randy,Reynolds,,1,1,0,0,,,2,,1,,1,,,,0
+stat,rteam,player,dan-mcguire-99,Dan,McGuire,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,rteam,,32,82,14,18,,,78,,38,,21,,,,4,0
+linescore,rteam,43,35,:,78
+coach,hteam,John-Wooden-1,John,Wooden,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,6,2,2,,,12,,4,,0,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,5,1,1,,,3,,4,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,5,12,2,2,,,12,,10,,3,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,3,11,5,5,,,11,,3,,1,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,5,10,0,1,,,10,,4,,1,,,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,11,18,5,8,,,27,,13,,3,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,13,16,3,6,,,29,,18,,1,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,4,4,1,4,,,9,,2,,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,2,5,0,0,,,4,,2,,3,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,2,2,0,0,,,4,,1,,1,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,0,2,1,2,,,1,,2,,0,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,1,2,2,,,2,,1,,0,,,,0
+tstat,hteam,,51,92,22,33,,,124,,68,,14,,,,4,0
+linescore,hteam,52,72,:,124
+sources,Los Angeles Times
+issue,Dale Johnson not listed on Sports Reference but was on 1968-69 freshman team per 1968-69 Rice Media Guide and is listed by Sports Reference in 1970 and 1972.
+
+gamebxt
+version,1
+info,date,12/11/1970
+info,dayofweek,Friday
+info,rteam,Pacific Tigers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12206
+info,ref,Bill Bussenius
+info,ref,Charles Reed
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,Dick-Edwards-1,Dick,Edwards,0
+stat,rteam,player,pete-jensen-99,Pete,Jensen,,6,9,3,4,,,15,,6,,3,,,,0
+stat,rteam,player,jim-mccargo-99,Jim,McCargo,,5,11,0,0,,,10,,11,,1,,,,0
+stat,rteam,player,john-gianelli-99,John,Gianelli,,10,19,2,6,,,22,,14,,3,,,,0
+stat,rteam,player,robby-sperring-99,Robby,Sperring,,4,10,0,1,,,8,,0,,4,,,,0
+stat,rteam,player,bob-thomason-99,Bob,Thomason,,8,16,5,7,,,21,,7,,1,,,,0
+stat,rteam,player,bernard-dulaney-99,Bernard,Dulaney,,4,9,0,0,,,8,,5,,1,,,,0
+stat,rteam,player,john-joshua-99,John,Joshua,,0,1,0,0,,,0,,1,,1,,,,0
+stat,rteam,player,paul-scheidegger-99,Paul,Scheidegger,,0,0,0,0,,,0,,1,,0,,,,0
+stat,rteam,player,pat-douglass-99,Pat,Douglass,,0,0,2,2,,,2,,0,,0,,,,0
+stat,rteam,player,roy-Ghiggeri-99,Roy,Ghiggeri,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,ossie-noble-99,Ossie,Noble,,0,0,0,0,,,0,,1,,1,,,,0
+stat,rteam,player,mike-cloyd-99,Mike,Cloyd,,0,0,2,2,,,2,,1,,1,,,,0
+tstat,rteam,,37,75,14,22,,,88,,50,,16,,,,3,0
+linescore,rteam,42,46,:,88
+coach,hteam,John-Wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,14,18,0,0,,,28,,8,,1,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,7,22,7,8,,,21,,12,,2,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,5,14,0,0,,,10,,13,,2,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,3,7,0,2,,,6,,0,,4,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,6,17,4,5,,,16,,4,,0,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,2,4,5,5,,,9,,3,,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,1,7,2,2,,,4,,6,,1,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,2,0,1,,,2,,5,,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,2,8,0,0,,,4,,0,,1,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,0,0,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,0,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,0,0,2,,,0,,3,,1,,,,0
+tstat,hteam,,41,99,18,25,,,100,,61,,17,,,,7,0
+linescore,hteam,57,43,:,100
+sources,Los Angeles Times & Long Beach Independent 
+
+gamebxt
+version,1
+info,date,12/12/1970
+info,dayofweek,Saturday
+info,rteam,Tulsa Golden Hurricane
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12301
+info,ref,Mel Ross
+info,ref,Jack Taylor
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,ken-hayes-1,Ken,Hayes,0
+stat,rteam,player,larry-morris-99,Larry,Morris,,4,13,0,1,,,8,,11,,2,,,,0
+stat,rteam,player,bob-horn-99,Bob,Horn,,2,4,0,0,,,4,,8,,1,,,,0
+stat,rteam,player,dana-lewis-99,Dana,Lewis,,9,22,2,2,,,20,,6,,2,,,,0
+stat,rteam,player,steve-bracey-99,Steve,Bracey,,9,21,3,3,,,21,,4,,1,,,,0
+stat,rteam,player,jim-clesson-99,Jim,Clesson,,7,13,2,2,,,16,,1,,3,,,,0
+stat,rteam,player,joe-voskuhl-99,Joe,Voskuhl,,1,3,0,0,,,2,,2,,0,,,,0
+stat,rteam,player,john-herndon-99,John,Herndon,,0,1,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,eric-smiler-99,Eric,Smiler,,1,1,2,2,,,4,,1,,2,,,,0
+tstat,rteam,,33,78,9,10,,,75,,39,,11,,,,6,0
+linescore,rteam,36,39,:,75
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,8,19,0,1,,,16,,9,,0,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,3,0,0,,,2,,4,,0,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,10,19,7,7,,,27,,18,,0,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,3,8,0,1,,,6,,0,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,8,18,0,0,,,16,,6,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,3,11,4,4,,,10,,10,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,4,9,0,0,,,8,,2,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,4,7,0,0,,,8,,6,,0,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,2,0,0,,,0,,1,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,1,1,0,1,,,2,,1,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,0,0,0,0,,,0,,1,,0,,,,0
+tstat,hteam,,42,97,11,14,,,95,,65,,7,,,,7,0
+linescore,hteam,51,44,:,95
+sources,Los Angeles Times
+
+
+
+gamebxt
+version,1
+info,date,12/22/1970
+info,dayofweek,Tuesday
+info,rteam,Missouri Tigers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12347
+info,ref,Bob Herrold
+info,ref,George Selleck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,norm-stewart-1,Norm,Stewart,0
+stat,rteam,player,bill-foster-99,Bill,Foster,,7,9,0,0,,,14,,1,,3,,,,0
+stat,rteam,player,bob-allen-99,Bob,Allen,,7,16,2,3,,,16,,8,,5,,,,0
+stat,rteam,player,henry-smith-99,Henry,Smith,,5,20,2,2,,,12,,13,,5,,,,0
+stat,rteam,player,greg-flaker-99,Greg,Flaker,,2,3,0,0,,,4,,3,,3,,,,0
+stat,rteam,player,mike-jeffries-99,Mike,Jeffries,,5,8,0,1,,,10,,7,,2,,,,0
+stat,rteam,player,john-brown-99,John,Brown,,6,11,2,3,,,14,,4,,3,,,,0
+stat,rteam,player,mike-griffin-99,Mike,Griffin,,1,4,1,2,,,3,,2,,2,,,,0
+stat,rteam,player,jerry-stock-99,Jerry,Stock,,0,0,0,1,,,0,,0,,1,,,,0
+stat,rteam,player,barry-maurer-99,Barry,Maurer,,1,2,0,0,,,2,,2,,0,,,,0
+stat,rteam,player,vaughn-colbert-99,Vaughn,Colbert,,0,1,0,0,,,0,,0,,1,,,,0
+stat,rteam,player,orv-salmon-99,Orv,Salmon,,0,2,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,robert-johnson-99,Robert,Johnson,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,rteam,,34,76,7,12,,,75,,44,,25,,,,4,0
+linescore,rteam,35,40,:,75
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,11,18,6,9,,,28,,15,,1,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,12,18,5,9,,,29,,11,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,0,4,2,5,,,2,,10,,3,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,1,5,0,3,,,2,,5,,3,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,4,16,3,4,,,11,,3,,1,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,6,1,2,,,7,,2,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,1,3,0,0,,,2,,0,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,3,5,3,6,,,9,,7,,0,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,1,0,0,,,0,,0,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,2,2,0,2,,,4,,1,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,37,78,20,40,,,94,,64,,11,,,,10,0
+linescore,hteam,48,46,:,94
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,12/23/1970
+info,dayofweek,Wednesday
+info,rteam,St. Louis Billikens
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12517
+info,ref,Mel Ross
+info,ref,Charles Reed
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,robert-polk-1,Robert,Polk,0
+stat,rteam,player,rich-stallworth-99,Rich,Stallworth,,4,7,1,1,,,9,,7,,5,,,,0
+stat,rteam,player,harry-rogers-99,Harry,Rogers,,3,4,2,2,,,8,,2,,4,,,,0
+stat,rteam,player,mike-lockette-99,Mike,Lockette,,2,5,0,0,,,4,,7,,5,,,,1
+stat,rteam,player,jim-irving-99,Jim,Irving,,9,18,0,1,,,18,,4,,1,,,,0
+stat,rteam,player,carlos-martinez-99,Carlos,Martinez,,5,8,3,3,,,13,,2,,4,,,,0
+stat,rteam,player,jesse-leonard-99,Jesse,Leonard,,0,1,1,1,,,1,,2,,2,,,,0
+stat,rteam,player,bob-wade-99,Bob,Wade,,2,5,2,4,,,6,,7,,0,,,,0
+stat,rteam,player,sam-williams-99,Sam,Williams,,2,7,2,3,,,6,,0,,2,,,,0
+stat,rteam,player,bill-paradoski-99,Bill,Paradoski,,0,2,0,0,,,0,,2,,0,,,,0
+tstat,rteam,,27,57,11,15,,,65,,35,,23,,,,2,1
+linescore,rteam,33,32,:,65
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,8,14,4,7,,,20,,6,,2,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,5,11,8,10,,,18,,15,,4,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,7,18,2,5,,,16,,13,,0,,,,
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,2,4,2,4,,,6,,2,,3,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,3,11,3,6,,,9,,0,,0,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,1,4,0,1,,,2,,1,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,1,2,0,0,,,2,,6,,1,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,2,2,2,2,,,6,,2,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,0,0,1,,,0,,0,,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,1,0,0,,,0,,1,,0,,,,0
+tstat,hteam,,29,67,21,36,,,79,,52,,13,,,,6,0
+linescore,hteam,35,44,:,79
+issue,stats,LAT rebound totals do not add up correctly. St. Louis Post-Dispatch rebound totals add up correctly if the "team rebounds" figure is SUBTRACTED (in other words the "team rebounds" seem to have been double-counted in the overall team total). The individual rebound figures for each player are the same in both newspapers.
+sources,Los Angeles Times & St. Louis Post-Dispatch
+issue,Bill Paradoski not listed on Sports Reference in 1971 but is listed as a junior in 1972.
+
+
+gamebxt
+version,1
+info,date,12/29/1970
+info,dayofweek,Tuesday
+info,rteam,UCLA Bruins
+info,hteam,William & Mary Indians
+info,neutralsite,YES
+info,title,
+info,arena,Civic Arena
+info,city,Pittsburgh
+info,state,Pennsylvania
+info,country,United States
+info,attendance,10008
+info,ref,
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Steel Bowl Classic semifinal
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,3,16,1,1,,,7,,3,,3,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,5,6,0,1,,,10,,4,,3,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,10,18,0,0,,,20,,8,,1,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,9,17,1,2,,,19,,8,,2,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,8,14,7,9,,,23,,15,,3,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,0,1,1,2,,,1,,2,,3,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,2,5,0,0,,,4,,3,,0,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,3,4,0,0,,,6,,3,,2,,,,0
+stat,rteam,player,andy-hill-1,Andy,Hill,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,jon-chapman-1,Jon,Chapman,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,rteam,,40,81,10,15,,,90,,46,,17,,,,,0
+linescore,rteam,42,48,:,90
+coach,hteam,warren-mitchell-1,Warren,Mitchell,0
+stat,hteam,player,jeff-trammell-99,Jeff,Trammell,,2,4,3,5,,,7,,3,,1,,,,0
+stat,hteam,player,neil-gewirtzman-99,Neil,Gewirtzman,,1,1,2,3,,,4,,1,,3,,,,0
+stat,hteam,player,steve-dodge-99,Steve,Dodge,,10,21,1,2,,,21,,6,,0,,,,0
+stat,hteam,player,jim-warns-99,Jim,Warns,,6,8,2,3,,,14,,11,,4,,,,0
+stat,hteam,player,tom-jasper-99,Tom,Jasper,,7,17,0,1,,,14,,3,,2,,,,0
+stat,hteam,player,george-spack-99,George,Spack,,4,6,2,2,,,10,,3,,1,,,,0
+stat,hteam,player,ray-anderson-99,Ray,Anderson,,0,1,0,0,,,0,,0,,0,,,,0
+stat,hteam,player,jerry-fisher-99,Jerry,Fisher,,0,0,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,steve-seward-99,Steve,Seward,,0,3,1,1,,,1,,0,,1,,,,0
+stat,hteam,player,doug-duncan-99,Doug,Duncan,,0,1,0,2,,,0,,1,,0,,,,0
+stat,hteam,player,david-stovall-99,David,Stovall,,0,0,0,0,,,0,,1,,0,,,,0
+tstat,hteam,,30,62,11,19,,,71,,29,,13,,,,,0
+linescore,hteam,36,35,:,71
+sources,Pittsburgh Post-Gazette
+
+gamebxt
+version,1
+info,date,12/30/1970
+info,dayofweek,Wednesday
+info,rteam,UCLA Bruins
+info,hteam,Pittsburgh Panthers
+info,title,
+info,arena,Civic Arena
+info,city,Pittsburgh
+info,state,Pennsylvania
+info,country,United States
+info,attendance,13535
+info,ref,Cliff Fair
+info,ref,Earl Coh
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,Steel Bowl Classic final
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,0,8,2,3,,,2,,3,,2,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,2,4,1,1,,,5,,0,,4,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,3,9,3,5,,,9,,4,,4,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,11,16,4,4,,,26,,10,,2,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,8,13,10,13,,,26,,16,,2,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,0,1,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,0,3,0,0,,,0,,2,,0,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,3,8,1,2,,,7,,2,,3,,,,0
+stat,rteam,player,andy-hill-1,Andy,Hill,,0,0,2,2,,,2,,0,,1,,,,0
+stat,rteam,player,jon-chapman-1,Jon,Chapman,,0,0,0,0,,,0,,1,,0,,,,0
+tstat,rteam,,27,62,23,30,,,77,,38,,18,,,,,0
+linescore,rteam,35,42,:,77
+coach,hteam,buzz-ridl-1,Buzz,Ridl,0
+stat,hteam,player,kent-scott-99,Kent,Scott,,7,16,0,0,,,14,,2,,3,,,,0
+stat,hteam,player,bill-downes-99,Bill,Downes,,1,7,1,2,,,3,,2,,2,,,,0
+stat,hteam,player,ed-harrison-99,Ed,Harrison,,5,9,1,3,,,11,,3,,5,,,,0
+stat,hteam,player,carl-morris-99,Carl,Morris,,3,10,1,2,,,7,,2,,4,,,,0
+stat,hteam,player,michael-paul-99,Michael,Paul,,2,10,2,2,,,6,,1,,3,,,,0
+stat,hteam,player,paul-ogorek-99,Paul,O'Gorek,,2,9,4,5,,,8,,15,,1,,,,0
+stat,hteam,player,bill-sulkowski-99,Bill,Sulkowski,,5,7,1,1,,,11,,1,,2,,,,0
+stat,hteam,player,steve-lewis-99,Steve,Lewis,,0,1,2,2,,,2,,1,,2,,,,0
+stat,hteam,player,michael-caldwell-99,Michael,Caldwell,,1,1,0,0,,,2,,0,,0,,,,0
+stat,hteam,player,bob-cizmarik-99,Bob,Cizmarik,,0,0,0,0,,,0,,1,,0,,,,0
+tstat,hteam,,26,70,12,17,,,64,,28,,22,,,,,0
+linescore,hteam,28,36,:,64
+sources,Pittsburgh Post-Gazette
+
+gamebxt
+version,1
+info,date,01/02/1971
+info,dayofweek,Saturday
+info,rteam,Dayton Flyers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12543
+info,ref,Ernie Filiberti
+info,ref,Charles Reed
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,don-donoher-1,Don,Donoher,0
+stat,rteam,player,ken-may-99,Ken,May,,15,27,4,7,,,34,,7,,2,,,,0
+stat,rteam,player,tom-crosswhite-99,Tom,Crosswhite,,4,14,2,2,,,10,,6,,3,,,,0
+stat,rteam,player,george-jackson-99,George,Jackson,,5,9,0,0,,,10,,10,,3,,,,0
+stat,rteam,player,al-bertke-99,Al,Bertke,,3,13,2,2,,,8,,4,,0,,,,0
+stat,rteam,player,rex-gardecki-99,Rex,Gardecki,,2,6,4,7,,,8,,5,,3,,,,0
+stat,rteam,player,george-schloemer-99,George,Schloemer,,2,4,0,0,,,4,,2,,1,,,,0
+stat,rteam,player,gordy-gahm-99,Gordy,Gahm,,1,3,1,2,,,3,,2,,1,,,,0
+stat,rteam,player,john-bitter-99,John,Bitter,,1,2,1,2,,,3,,3,,1,,,,0
+stat,rteam,player,jack-keehan-99,Jack,Keehan,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,mark-sizemore-99,Mark,Sizemore,,1,1,0,0,,,2,,0,,0,,,,0
+stat,rteam,player,steve-hess-99,Steve,Hess,,0,1,0,0,,,0,,1,,0,,,,0
+tstat,rteam,,34,80,14,22,,,82,,52,,14,,,,12,0
+linescore,rteam,34,48,:,82
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,9,19,4,5,,,22,,10,,2,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,12,19,4,8,,,28,,11,,2,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,7,16,0,0,,,14,,18,,3,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,5,9,0,0,,,10,,3,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,9,18,1,2,,,19,,3,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,4,6,0,1,,,8,,3,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,1,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,2,3,1,1,,,5,,0,,0,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,0,1,0,0,,,0,,2,,1,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,0,0,0,,,0,,0,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,0,,,0,,3,,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,3,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,48,96,10,17,,,106,,57,,15,,,,4,0
+linescore,hteam,44,62,:,106
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/08/1971
+info,dayofweek,Friday
+info,rteam,Washington Huskies
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12735
+info,ref,Bill Bussenius
+info,ref,Richard Wader
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,tex-winter-1,Tex,Winter,0
+stat,rteam,player,gene-broom-99,Gene,Broom,,0,3,1,2,,,1,,4,,1,,,,0
+stat,rteam,player,reggie-ball-99,Reggie,Ball,,5,9,0,2,,,10,,5,,3,,,,0
+stat,rteam,player,steve-hawes-99,Steve,Hawes,,11,16,8,11,,,30,,16,,3,,,,0
+stat,rteam,player,dave-willenborg-99,Dave,Willenborg,,1,4,0,0,,,2,,3,,3,,,,0
+stat,rteam,player,louie-nelson-99,Louie,Nelson,,6,11,8,11,,,20,,5,,4,,,,0
+stat,rteam,player,jim-mossell-99,Jim,Mossell,,0,2,0,0,,,0,,2,,2,,,,0
+stat,rteam,player,bruce-case-99,Bruce,Case,,0,1,0,0,,,0,,1,,2,,,,0
+stat,rteam,player,charles-dudley-99,Charles,Dudley,,0,4,0,0,,,0,,0,,3,,,,0
+stat,rteam,player,mike-fink-99,Mike,Fink,,2,7,0,1,,,4,,4,,2,,,,0
+stat,rteam,player,paul-tillman-99,Paul,Tillman,,1,1,0,2,,,2,,2,,2,,,,0
+stat,rteam,player,van-bye-99,Van,Bye,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,rteam,,26,58,17,29,,,69,,48,,25,,,,6,0
+linescore,rteam,20,49,:,69
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,9,17,3,6,,,21,,4,,5,,,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,6,10,6,9,,,18,,11,,0,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,2,6,1,2,,,5,,7,,3,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,1,4,2,2,,,4,,1,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,4,12,5,5,,,13,,2,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,6,0,1,,,6,,4,,3,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,2,5,6,,,7,,5,,3,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,0,4,4,,,4,,0,,1,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,0,,,0,,0,,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,0,1,0,0,,,0,,0,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,0,1,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,26,60,26,35,,,78,,39,,23,,,,5,0
+linescore,hteam,33,45,:,78
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/09/1971
+info,dayofweek,Saturday
+info,rteam,Washington State Cougars
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12683
+info,ref,Ernie Filiberti
+info,ref,Jack Taylor
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,marv-harshman-1,Marv,Harshman,0
+stat,rteam,player,jim-meredith-99,Jim,Meredith,,7,14,3,3,,,17,,10,,3,,,,0
+stat,rteam,player,dennis-hogg-99,Dennis,Hogg,,8,14,2,2,,,18,,6,,4,,,,0
+stat,rteam,player,mike-dolven-99,Mike,Dolven,,1,3,0,0,,,2,,2,,3,,,,0
+stat,rteam,player,dan-steward-99,Dan,Steward,,6,13,1,2,,,13,,1,,2,,,,0
+stat,rteam,player,mike-gomez-99,Mike,Gomez,,3,5,3,3,,,9,,1,,0,,,,0
+stat,rteam,player,jim-nielsen-99,Jim,Nielsen,,2,4,2,3,,,6,,4,,5,,,,0
+stat,rteam,player,bob-waits-99,Bob,Waits,,1,2,0,1,,,2,,0,,2,,,,0
+stat,rteam,player,jim-smiley-99,Jim,Smiley,,0,4,0,0,,,0,,3,,1,,,,0
+stat,rteam,player,don-paul-99,Don,Paul,,1,4,0,1,,,2,,0,,0,,,,0
+stat,rteam,player,rick-rawlings-99,Rick,Rawlings,,1,2,0,0,,,2,,2,,0,,,,0
+stat,rteam,player,steve-kebbe-99,Steve,Kebbe,,0,0,0,0,,,0,,1,,0,,,,0
+stat,rteam,player,steve-merkley-99,Steve,Merkley,,0,0,0,1,,,0,,0,,0,,,,0
+tstat,rteam,,30,65,11,16,,,71,,34,,20,,,,4,0
+linescore,rteam,39,32,:,71
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,9,15,3,5,,,21,,9,,5,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,9,18,3,7,,,21,,13,,2,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,6,16,10,11,,,22,,16,,2,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,3,6,3,5,,,9,,4,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,5,11,0,0,,,10,,1,,1,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,5,0,0,,,6,,1,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,1,0,0,,,2,,1,,0,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,1,0,0,,,0,,0,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,2,3,0,0,,,4,,6,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,0,,,0,,0,,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,38,77,19,28,,,95,,54,,15,,,,3,0
+linescore,hteam,41,54,:,95
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/15/1971
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Stanford Indians
+info,title,
+info,arena,Maples Pavilion
+info,city,Stanford
+info,state,California
+info,country,United States
+info,attendance,7923
+info,ref,Lou Soriano
+info,ref,Ernie Filiberti
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,7,17,5,8,,,19,,10,1,2,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,2,12,5,5,,,9,,9,2,1,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,6,19,0,0,,,12,,17,1,2,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,4,9,0,1,,,8,,3,1,2,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,4,9,0,0,,,8,,0,0,1,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,1,1,0,2,,,2,,1,0,3,,,,0
+tstat,rteam,,24,67,10,16,,,58,,45,5,11,,,,5,0
+linescore,rteam,29,29,:,58
+coach,hteam,howard-dallmar-1,Howard,Dallmar,0
+stat,hteam,player,chuck-moore-99,Chuck,Moore,,3,7,0,0,,,6,,2,2,3,,,,0
+stat,hteam,player,claude-terry-99,Claude,Terry,,10,17,2,3,,,22,,4,2,3,,,,0
+stat,hteam,player,michael-michel-99,Michael,Michel,,5,7,1,2,,,11,,7,0,1,,,,0
+stat,hteam,player,pat-rusco-99,Pat,Rusco,,2,3,1,1,,,5,,2,0,4,,,,0
+stat,hteam,player,pat-stevens-99,Pat,Stevens,,4,7,0,1,,,8,,6,1,2,,,,0
+stat,hteam,player,fred-green-99,Fred,Green,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,hteam,player,john-stratton-99,John,Stratton,,0,0,1,3,,,1,,2,0,1,,,,0
+tstat,hteam,,24,42,5,10,,,53,,27,5,14,,,,3,0
+linescore,hteam,17,36,:,53
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/16/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,California Golden Bears
+info,title,
+info,arena,Harmon Gym
+info,city,Berkeley
+info,state,California
+info,country,United States
+info,attendance,7200
+info,ref,Ernie Filiberti
+info,ref,Lou Soriano
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,4,15,4,8,,,12,,6,2,1,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,14,23,5,7,,,33,,17,5,2,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,5,16,1,2,,,11,,9,5,4,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,9,19,1,2,,,19,,4,3,3,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,0,4,0,0,,,0,,4,3,2,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,3,8,1,1,,,7,,3,2,2,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,2,2,0,0,,,4,,2,0,0,,,,0
+stat,rteam,player,andy-hill-1,Andy,Hill,,0,0,6,6,,,6,,0,0,0,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,1,4,0,0,,,2,,1,0,0,,,,0
+stat,rteam,player,rick-betchley-1,Rick,Betchley,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,0,1,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,38,94,18,26,,,94,,56,20,14,,,,9,0
+linescore,rteam,44,50,:,94
+coach,hteam,jim-padgett-1,Jim,Padgett,0
+stat,hteam,player,jackie-ridgle-99,Jackie,Ridgle,,2,10,6,6,,,10,,10,4,4,,,,0
+stat,hteam,player,john-coughran-99,John,Coughran,,5,8,0,1,,,10,,3,0,4,,,,0
+stat,hteam,player,ansley-truitt-99,Ansley,Truitt,,7,11,0,0,,,14,,12,0,5,,,,0
+stat,hteam,player,phil-chenier-99,Phil,Chenier,,6,14,5,5,,,17,,6,5,3,,,,0
+stat,hteam,player,charlie-johnson-99,Charlie,Johnson,,8,15,3,8,,,19,,5,0,1,,,,0
+stat,hteam,player,bob-johnson-99,Bob,Johnson,,0,0,0,0,,,0,,0,0,2,,,,0
+stat,hteam,player,bob-white-99,Bob,White,,1,2,0,0,,,2,,2,0,1,,,,0
+stat,hteam,player,harry-brown-99,Harry,Brown,,1,4,0,0,,,2,,1,0,0,,,,0
+stat,hteam,player,telvis-jones-99,Telvis,Jones,,1,1,0,0,,,2,,0,0,1,,,,0
+stat,hteam,player,eric-long-99,Eric,Long,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,leo-dorado-99,Leo,Dorado,,0,0,0,0,,,0,,1,1,0,,,,0
+tstat,hteam,,31,65,14,20,,,76,,49,10,21,,,,9,0
+linescore,hteam,35,41,:,76
+sources,Los Angeles Times & Oakland Tribune
+
+gamebxt
+version,1
+info,date,01/22/1971
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Loyola of Chicago Ramblers
+info,title,
+info,arena,Chicago Stadium
+info,city,Chicago
+info,state,Illinois
+info,country,United States
+info,attendance,7755
+info,ref,Tony Tortorello
+info,ref,Charles Fouty
+info,ref,
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,4,14,5,7,,,13,,15,0,0,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,10,18,6,10,,,26,,13,1,0,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,9,18,3,4,,,21,,9,0,1,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,1,8,0,0,,,2,,5,1,3,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,3,5,6,7,,,12,,5,0,0,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,3,11,0,1,,,6,,6,0,3,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,1,1,0,0,,,2,,2,0,1,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,1,1,0,0,,,2,,2,0,0,,,,0
+stat,rteam,player,andy-hill-1,Andy,Hill,,0,0,1,2,,,1,,1,0,1,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,1,4,0,0,,,2,,2,0,3,,,,0
+stat,rteam,player,jon-chapman-1,Jon,Chapman,,0,2,0,0,,,0,,2,0,1,,,,0
+stat,rteam,player,rick-betchley-1,Rick,Betchley,,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,33,82,21,31,,,87,,66,2,13,,,,3,0
+linescore,rteam,39,48,:,87
+coach,hteam,george-ireland-1,George,Ireland,0
+stat,hteam,player,joe-young-99,Joe,Young,,0,3,0,1,,,0,,1,0,1,,,,0
+stat,hteam,player,bill-moody-99,Bill,Moody,,2,6,0,0,,,4,,6,2,4,,,,0
+stat,hteam,player,larue-martin-99,LaRue,Martin,,10,18,0,1,,,20,,14,1,5,,,,0
+stat,hteam,player,nate-hayes-99,Nate,Hayes,,4,10,0,1,,,8,,2,0,0,,,,0
+stat,hteam,player,rich-ford-99,Rich,Ford,,5,12,3,3,,,13,,5,0,3,,,,0
+stat,hteam,player,ernie-lewis-99,Ernie,Lewis,,4,13,0,0,,,8,,4,1,5,,,,0
+stat,hteam,player,ron-black-99,Ron,Black,,1,3,1,1,,,3,,2,0,2,,,,0
+stat,hteam,player,steve-orser-99,Steve,Orser,,0,0,1,2,,,1,,3,0,1,,,,0
+stat,hteam,player,pat-compobasso-99,Pat,Compobasso,,0,1,2,2,,,2,,1,0,1,,,,0
+stat,hteam,player,isadore-glover-99,Isadore,Glover,,1,2,1,1,,,3,,0,0,0,,,,0
+stat,hteam,player,mike-schneiderman-99,Mike,Schneiderman,,0,1,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,27,69,8,12,,,62,,39,4,22,,,,1,0
+linescore,hteam,34,28,:,62
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,01/23/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Notre Dame Fighting Irish
+info,title,
+info,arena,Athletic & Convocation Center
+info,city,South Bend
+info,state,Indiana
+info,country,United States
+info,attendance,11343
+info,ref,Don Wedge
+info,ref,Richard Weiler
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,8,19,7,10,,,23,,11,5,5,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,6,13,4,6,,,16,,9,4,4,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,7,11,1,2,,,15,,10,4,3,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,6,12,4,5,,,16,,4,2,4,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,3,4,0,1,,,6,,3,1,3,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,0,0,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,andy-hill-1,Andy,Hill,,0,0,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,larry-hollyfield-1,Larry,Hollyfield,,3,5,0,0,,,6,,1,0,1,,,,0
+stat,rteam,player,rick-betchley-1,Rick,Betchley,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,33,65,16,24,,,82,,44,16,22,,,,5,0
+linescore,rteam,38,44,:,82
+coach,hteam,johnny-dee-1,Johnny,Dee,0
+stat,hteam,player,collis-jones-99,Collis,Jones,,6,19,7,9,,,19,,14,1,4,,,,0
+stat,hteam,player,sid-catlett-99,Sid,Catlett,,2,9,0,0,,,4,,5,2,4,,,,0
+stat,hteam,player,john-pleick-99,John,Pleick,,3,8,3,3,,,9,,7,2,5,,,,0
+stat,hteam,player,austin-carr-99,Austin,Carr,,17,30,12,16,,,46,,5,0,1,,,,0
+stat,hteam,player,jack-meehan-99,Jack,Meehan,,1,3,1,2,,,3,,1,6,4,,,,0
+stat,hteam,player,doug-gemmell-99,Doug,Gemmell,,3,3,0,1,,,6,,5,1,2,,,,0
+stat,hteam,player,thomas-sinnott-99,Thomas,Sinnott,,1,1,0,1,,,2,,0,2,0,,,,0
+stat,hteam,player,jim-regelean-99,Jim,Regelean,,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,hteam,,33,73,23,32,,,89,,44,14,20,,,,6,0
+linescore,hteam,43,46,:,89
+issue,stats,Adjusted team rebounds for UCLA from 6 to 5 based on Indianapolis Star which reported 44 rebounds for each team, and South Bend Tribune which lists the same rebound figures for each UCLA player as the LA Times (39 total).
+sources,Los Angeles Times & Indianapolis Star & South Bend Tribune
+
+gamebxt
+version,1
+info,date,01/30/1971
+info,dayofweek,Saturday
+info,rteam,UC Santa Barbara Gauchos
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,11641
+info,ref,Mel Ross
+info,ref,George Selleck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,ralph-barkey-1,Ralph,Barkey,0
+stat,rteam,player,john-tschogl-99,John,Tschogl,,5,7,0,0,,,10,,5,,5,,,,0
+stat,rteam,player,earl-frazier-99,Earl,Frazier,,2,10,2,2,,,6,,6,,3,,,,0
+stat,rteam,player,doug-rex-99,Doug,Rex,,5,11,2,3,,,12,,7,,2,,,,0
+stat,rteam,player,bob-schachter-99,Bob,Schachter,,7,7,3,4,,,17,,3,,3,,,,0
+stat,rteam,player,ron-allen-99,Ron,Allen,,3,11,1,1,,,7,,3,,3,,,,0
+stat,rteam,player,jim-edmond-99,Jim,Edmond,,2,4,1,1,,,5,,1,,2,,,,0
+stat,rteam,player,steve-rockhold-99,Steve,Rockhold,,1,1,0,2,,,2,,3,,3,,,,0
+stat,rteam,player,mike-mcgory-99,Mike,McGory,,0,3,0,0,,,0,,2,,1,,,,0
+stat,rteam,player,steve-haskett-99,Steve,Haskett,,0,3,0,0,,,0,,1,,0,,,,0
+stat,rteam,player,keith-shumaker-99,Keith,Shumaker,,0,0,0,0,,,0,,1,,1,,,,0
+stat,rteam,player,dennis-rector-99,Dennis,Rector,,1,1,0,0,,,2,,1,,0,,,,0
+tstat,rteam,,26,58,9,13,,,61,,36,,23,,,,3,0
+linescore,rteam,32,29,:,61
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,11,17,6,8,,,28,,11,,0,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,9,20,1,5,,,19,,8,,2,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,3,8,2,6,,,8,,13,,5,,,,1
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,1,6,2,3,,,4,,4,,1,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,3,5,2,2,,,8,,2,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,4,2,2,,,2,,1,,0,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,2,3,1,3,,,5,,2,,0,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,1,0,0,,,0,,0,,1,,,,0
+tstat,hteam,,29,64,16,29,,,74,,48,,11,,,,7,1
+linescore,hteam,39,35,:,74
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/06/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,USC Trojans
+info,title,
+info,arena,L.A. Sports Arena
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,15307
+info,ref,Ernie Filiberti
+info,ref,Mel Ross
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,9,11,6,8,,,24,,14,,3,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,1,4,2,5,,,4,,9,,2,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,4,9,1,6,,,9,,9,,2,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,3,12,3,3,,,9,,2,,1,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,7,10,0,3,,,14,,5,,3,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,2,4,0,0,,,4,,1,,1,,,,0
+tstat,rteam,,26,50,12,25,,,64,,46,,12,,,,6,0
+linescore,rteam,37,27,:,64
+coach,hteam,bob-boyd-1,Bob,Boyd,0
+stat,hteam,player,joe-mackey-99,Joe,Mackey,,4,10,2,2,,,10,,3,,5,,,,0
+stat,hteam,player,chris-schrobilgen-99,Chris,Schrobilgen,,4,11,2,2,,,10,,7,,2,,,,0
+stat,hteam,player,ron-riley-99,Ron,Riley,,2,5,1,4,,,5,,8,,4,,,,0
+stat,hteam,player,dennis-layton-99,Dennis,Layton,,10,22,3,3,,,23,,0,,1,,,,0
+stat,hteam,player,paul-westphal-99,Paul,Westphal,,4,12,3,3,,,11,,4,,5,,,,0
+stat,hteam,player,dana-pagett-99,Dana,Pagett,,0,0,1,1,,,1,,1,,1,,,,0
+stat,hteam,player,monroe-nash-99,Monroe,Nash,,0,2,0,0,,,0,,2,,1,,,,0
+stat,hteam,player,bill-taylor-99,Bill,Taylor,,0,1,0,0,,,0,,0,,1,,,,0
+tstat,hteam,,24,63,12,15,,,60,,40,,20,,,,15,0
+linescore,hteam,38,22,:,60
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/12/1971
+info,dayofweek,Friday
+info,rteam,UCLA Bruins
+info,hteam,Oregon Ducks
+info,title,
+info,arena,McArthur Court
+info,city,Eugene
+info,state,Oregon
+info,country,United States
+info,attendance,10400
+info,ref,Lou Soriano
+info,ref,George Selleck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,6,13,3,6,,,15,,13,,4,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,8,15,4,9,,,20,,9,,3,,,,1
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,4,14,2,3,,,10,,7,,2,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,3,9,6,7,,,12,,7,,2,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,3,8,0,1,,,6,,3,,2,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,2,4,2,3,,,6,,1,,2,,,,0
+tstat,rteam,,26,63,17,29,,,69,,46,,15,,,,6,1
+linescore,rteam,37,32,:,69
+coach,hteam,steve-belko-1,Steve,Belko,0
+stat,hteam,player,rusty-blair-99,Rusty,Blair,,6,14,1,1,,,13,,6,,1,,,,0
+stat,hteam,player,larry-holliday-99,Larry,Holliday,,4,11,3,3,,,11,,4,,5,,,,0
+stat,hteam,player,stan-love-99,Stan,Love,,6,14,1,2,,,13,,13,,3,,,,1
+stat,hteam,player,bill-drozdiak-99,Bill,Drozdiak,,6,8,4,4,,,16,,4,,3,,,,0
+stat,hteam,player,ken-strand-99,Ken,Strand,,3,6,2,3,,,8,,5,,5,,,,0
+stat,hteam,player,leonard-jackson-99,Leonard,Jackson,,3,6,1,2,,,7,,2,,1,,,,0
+stat,hteam,player,rick-brosterhous-99,Rick,Brosterhous,,0,1,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,28,60,12,15,,,68,,38,,18,,,,4,1
+linescore,hteam,38,30,:,68
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/13/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Oregon State Beavers
+info,title,
+info,arena,Gill Coliseum
+info,city,Corvallis
+info,state,Oregon
+info,country,United States
+info,attendance,8604
+info,ref,Lou Soriano
+info,ref,George Selleck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,8,14,6,9,,,22,,9,1,3,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,5,10,10,13,,,20,,12,2,3,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,0,4,2,2,,,2,,1,0,3,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,3,8,1,1,,,7,,2,4,1,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,1,6,0,0,,,2,,4,1,2,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,3,7,2,3,,,8,,3,1,1,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,2,4,2,2,,,6,,2,3,1,,,,0
+stat,rteam,player,larry-farmer-2,Larry,Farmer,,0,0,0,0,,,0,,1,0,0,,,,0
+tstat,rteam,,22,53,23,30,,,67,,41,12,14,,,,7,0
+linescore,rteam,32,35,:,67
+coach,hteam,ralph-miller-1,Ralph,Miller,0
+stat,hteam,player,gary-arbelbide-99,Gary,Arbelbide,,7,11,1,1,,,15,,6,1,3,,,,0
+stat,hteam,player,sam-whitehead-99,Sam,Whitehead,,2,5,0,0,,,4,,9,1,5,,,,0
+stat,hteam,player,neal-jurgenson-99,Neal,Jurgenson,,4,6,2,3,,,10,,7,2,4,,,,0
+stat,hteam,player,freddie-boyd-99,Freddie,Boyd,,6,14,6,7,,,18,,1,10,2,,,,0
+stat,hteam,player,tim-perkins-99,Tim,Perkins,,3,10,2,2,,,8,,3,6,1,,,,0
+stat,hteam,player,rick-reed-99,Rick,Reed,,1,1,0,3,,,2,,0,0,3,,,,0
+stat,hteam,player,gary-erickson-99,Gary,Erickson,,4,10,0,0,,,8,,3,0,1,,,,0
+stat,hteam,player,jeff-haller-99,Jeff,Haller,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,27,57,11,16,,,65,,32,20,19,,,,3,0
+linescore,hteam,35,30,:,65
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/19/1971
+info,dayofweek,Friday
+info,rteam,Oregon State Beavers
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12853
+info,ref,Lou Soriano
+info,ref,Jack Taylor
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,ralph-miller-1,Ralph,Miller,0
+stat,rteam,player,gary-arbelbide-99,Gary,Arbelbide,,3,8,1,2,,,7,,5,,3,,,,0
+stat,rteam,player,sam-whitehead-99,Sam,Whitehead,,7,9,2,2,,,16,,14,,4,,,,0
+stat,rteam,player,neal-jurgenson-99,Neal,Jurgenson,,2,4,2,2,,,6,,6,,5,,,,0
+stat,rteam,player,freddie-boyd-99,Freddie,Boyd,,8,13,2,3,,,18,,0,,2,,,,0
+stat,rteam,player,tim-perkins-99,Tim,Perkins,,1,12,0,0,,,2,,2,,2,,,,0
+stat,rteam,player,gary-erickson-99,Gary,Erickson,,4,15,1,1,,,9,,4,,1,,,,0
+stat,rteam,player,rick-reed-99,Rick,Reed,,1,3,0,1,,,2,,2,,2,,,,0
+stat,rteam,player,billy-nickleberry-99,Billy,Nickleberry,,2,5,0,0,,,4,,2,,0,,,,0
+stat,rteam,player,tom-phipps-99,Tom,Phipps,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,jeff-haller-99,Jeff,Haller,,0,0,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,gary-shontz-99,Gary,Shontz,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,rteam,,28,69,8,11,,,64,,36,,19,,,,1,0
+linescore,rteam,31,33,:,64
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,7,14,4,8,,,18,,15,,1,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,11,19,3,8,,,25,,21,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,9,19,0,0,,,18,,7,,1,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,3,9,0,1,,,6,,5,,1,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,2,8,5,7,,,9,,3,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,4,6,0,0,,,8,,3,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,1,2,2,,,2,,3,,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,2,5,0,0,,,4,,2,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,0,,,0,,1,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,2,2,0,2,,,4,,0,,0,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,40,84,14,28,,,94,,66,,11,,,,6,0
+linescore,hteam,50,44,:,94
+sources,Los Angeles Times
+
+gamebxt
+version,1
+info,date,02/20/1971
+info,dayofweek,Saturday
+info,rteam,Oregon Ducks
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12912
+info,ref,Mel Ross
+info,ref,Bob Herrold
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,steve-belko-1,Steve,Belko,0
+stat,rteam,player,larry-holliday-99,Larry,Holliday,,2,9,3,4,,,7,,11,,5,,,,0
+stat,rteam,player,rusty-blair-99,Rusty,Blair,,7,15,2,4,,,16,,8,,4,,,,0
+stat,rteam,player,stan-love-99,Stan,Love,,12,25,2,3,,,26,,16,,4,,,,0
+stat,rteam,player,ken-strand-99,Ken,Strand,,4,6,2,2,,,10,,0,,1,,,,0
+stat,rteam,player,bill-drozdiak-99,Bill,Drozdiak,,4,14,0,0,,,8,,7,,3,,,,0
+stat,rteam,player,leonard-jackson-99,Leonard,Jackson,,0,1,0,3,,,0,,2,,3,,,,0
+stat,rteam,player,rick-brosterhous-99,Rick,Brosterhous,,0,0,0,0,,,0,,0,,1,,,,0
+tstat,rteam,,29,70,9,16,,,67,,48,,21,,,,4,0
+linescore,rteam,35,32,:,67
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,4,8,8,10,,,16,,9,,2,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,10,16,8,11,,,28,,13,,2,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,5,18,0,2,,,10,,8,,3,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,0,3,0,2,,,0,,0,,1,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,3,10,0,0,,,6,,4,,2,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,6,4,4,,,10,,4,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,2,2,2,,,4,,3,,1,,,,0
+tstat,hteam,,26,63,22,31,,,74,,46,,13,,,,5,0
+linescore,hteam,39,35,:,74
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,02/27/1971
+info,dayofweek,Saturday
+info,rteam,UCLA Bruins
+info,hteam,Washington State Cougars
+info,title,
+info,arena,Bohler Gymnasium
+info,city,Pullman
+info,state,Washington
+info,country,United States
+info,attendance,5011
+info,ref,Lou Soriano
+info,ref,Frank Fidler
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,7,18,2,4,,,16,,11,0,3,,,,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,2,9,2,4,,,6,,6,1,1,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,4,9,5,6,,,13,,9,0,1,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,5,13,2,2,,,12,,1,3,4,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,1,1,2,2,,,4,,4,3,1,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,2,5,0,0,,,4,,3,3,1,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,0,0,2,2,,,2,,0,0,0,,,,0
+tstat,rteam,,21,55,15,20,,,57,,37,10,11,,,,3,0
+linescore,rteam,27,30,:,57
+coach,hteam,marv-harshman-1,Marv,Harshman,0
+stat,hteam,player,dennis-hogg-99,Dennis,Hogg,,5,12,1,2,,,11,,8,2,1,,,,0
+stat,hteam,player,jim-meredith-99,Jim,Meredith,,6,15,5,5,,,17,,8,3,5,,,,0
+stat,hteam,player,jim-nielsen-99,Jim,Nielsen,,2,4,0,0,,,4,,11,0,5,,,,0
+stat,hteam,player,dan-steward-99,Dan,Steward,,4,11,3,3,,,11,,2,5,4,,,,0
+stat,hteam,player,mike-gomez-99,Mike,Gomez,,3,8,0,0,,,6,,2,2,1,,,,0
+stat,hteam,player,mike-dolven-99,Mike,Dolven,,2,4,0,0,,,4,,2,0,2,,,,0
+stat,hteam,player,jim-smiley-99,Jim,Smiley,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,bob-waits-99,Bob,Waits,,0,0,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,don-paul-99,Don,Paul,,0,1,0,0,,,0,,0,0,0,,,,0
+stat,hteam,player,steve-merkley-99,Steve,Merkley,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,hteam,,22,55,9,10,,,53,,36,12,18,,,,3,0
+linescore,hteam,30,23,:,53
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,03/01/1971
+info,dayofweek,Monday
+info,rteam,UCLA Bruins
+info,hteam,Washington Huskies
+info,title,
+info,arena,Hec Edmundson Pavilion
+info,city,Seattle
+info,state,Washington
+info,country,United States
+info,attendance,9542
+info,ref,Mel Ross
+info,ref,Frank Fidler
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,john-wooden-1,John,Wooden,0
+stat,rteam,player,curtis-rowe-1,Curtis,Rowe,,8,13,2,3,,,18,,7,4,0,,,,0
+stat,rteam,player,sidney-wicks-1,Sidney,Wicks,,4,11,1,3,,,9,,6,3,3,,,,0
+stat,rteam,player,steve-patterson-2,Steve,Patterson,,7,15,3,6,,,17,,12,3,1,,,,0
+stat,rteam,player,kenny-booker-2,Kenny,Booker,,0,0,1,1,,,1,,2,0,1,,,,0
+stat,rteam,player,henry-bibby-1,Henry,Bibby,,8,12,5,5,,,21,,5,4,5,,,,0
+stat,rteam,player,terry-schofield-1,Terry,Schofield,,2,7,1,1,,,5,,3,3,4,,,,0
+stat,rteam,player,john-ecker-2,John,Ecker,,0,1,0,1,,,0,,0,1,1,,,,0
+tstat,rteam,,29,59,13,20,,,71,,38,18,15,,,,3,0
+linescore,rteam,38,33,:,71
+coach,hteam,tex-winter-1,Tex,Winter,0
+stat,hteam,player,louie-nelson-99,Louie,Nelson,,5,12,4,4,,,14,,6,5,3,,,,0
+stat,hteam,player,reggie-ball-99,Reggie,Ball,,6,14,1,1,,,13,,8,2,3,,,,0
+stat,hteam,player,steve-hawes-99,Steve,Hawes,,3,12,1,2,,,7,,11,2,1,,,,0
+stat,hteam,player,dave-willenborg-99,Dave,Willenborg,,3,5,1,1,,,7,,1,1,3,,,,0
+stat,hteam,player,charles-dudley-99,Charles,Dudley,,6,10,5,6,,,17,,2,4,4,,,,0
+stat,hteam,player,paul-tillman-99,Paul,Tillman,,4,10,3,3,,,11,,2,0,1,,,,0
+stat,hteam,player,bruce-case-99,Bruce,Case,,0,0,0,0,,,0,,0,0,2,,,,0
+tstat,hteam,,27,63,15,17,,,69,,36,14,17,,,,6,0
+linescore,hteam,36,33,:,69
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,03/05/1971
+info,dayofweek,Friday
+info,rteam,California Golden Bears
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12834
+info,ref,Charles Moffett
+info,ref,George Selleck
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,jim-padgett-1,Jim,Padgett,0
+stat,rteam,player,jackie-ridgle-99,Jackie,Ridgle,,5,14,0,0,,,10,,4,,4,,,,0
+stat,rteam,player,john-coughran-99,John,Coughran,,2,7,3,4,,,7,,10,,3,,,,0
+stat,rteam,player,ansley-truitt-99,Ansley,Truitt,,11,23,1,2,,,23,,9,,3,,,,0
+stat,rteam,player,charles-johnson-99,Charles,Johnson,,6,17,3,5,,,15,,11,,2,,,,0
+stat,rteam,player,phil-chenier-99,Phil,Chenier,,5,16,0,1,,,10,,5,,1,,,,0
+stat,rteam,player,bob-white-99,Bob,White,,0,4,0,0,,,0,,0,,1,,,,0
+stat,rteam,player,bob-johnson-99,Bob,Johnson,,0,2,0,0,,,0,,3,,0,,,,0
+stat,rteam,player,leo-dorado-99,Leo,Dorado,,0,1,0,0,,,0,,0,,0,,,,0
+stat,rteam,player,harry-brown-99,Harry,Brown,,1,2,0,0,,,2,,2,,1,,,,0
+stat,rteam,player,eric-long-99,Eric,Long,,0,2,0,0,,,0,,0,,1,,,,0
+stat,rteam,player,telvis-jones-99,Telvis,Jones,,1,4,0,0,,,2,,1,,1,,,,0
+tstat,rteam,,31,92,7,12,,,69,,51,,17,,,,6,0
+linescore,rteam,35,34,:,69
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,11,17,1,1,,,23,,7,,2,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,8,16,5,7,,,21,,22,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,9,13,3,4,,,21,,9,,2,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,1,5,1,2,,,3,,2,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,7,17,1,2,,,15,,3,,2,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,1,7,0,0,,,2,,1,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,2,6,0,0,,,4,,2,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,2,4,2,2,,,6,,5,,0,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,2,4,1,4,,,5,,9,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,1,0,1,,,0,,4,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,1,1,1,2,,,3,,1,,0,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,1,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,44,92,15,25,,,103,,73,,12,,,,8,0
+linescore,hteam,50,53,:,103
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,03/06/1971
+info,dayofweek,Saturday
+info,rteam,Stanford Indians
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12278
+info,ref,Bill Bussenius
+info,ref,Bob Herrold
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,howard-dallmar-1,Howard,Dallmar,0
+stat,rteam,player,michael-michel-99,Michael,Michel,,1,9,0,0,,,2,,5,,2,,,,0
+stat,rteam,player,bob-buell-99,Bob,Buell,,3,7,2,2,,,8,,3,,0,,,,0
+stat,rteam,player,larry-rosenzweig-99,Larry,Rosenzweig,,3,7,4,5,,,10,,5,,4,,,,0
+stat,rteam,player,pat-rusco-99,Pat,Rusco,,2,4,1,1,,,5,,1,,0,,,,0
+stat,rteam,player,claude-terry-99,Claude,Terry,,9,15,6,12,,,24,,6,,3,,,,0
+stat,rteam,player,chuck-moore-99,Chuck,Moore,,2,6,0,0,,,4,,6,,0,,,,0
+stat,rteam,player,fred-green-99,Fred,Green,,1,4,2,2,,,4,,2,,1,,,,0
+stat,rteam,player,john-stratton-99,John,Stratton,,2,4,1,1,,,5,,0,,1,,,,0
+stat,rteam,player,gary-cain-99,Gary,Cain,,0,0,4,4,,,4,,0,,1,,,,0
+stat,rteam,player,darrell-fregla-99,Darrell,Fregla,,3,6,0,0,,,6,,2,,1,,,,0
+tstat,rteam,,26,62,20,27,,,72,,34,,13,,,,4,0
+linescore,rteam,35,37,:,72
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,8,16,3,3,,,19,,10,,2,,,,1
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,7,10,5,6,,,19,,12,,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,9,16,2,2,,,20,,7,,2,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,5,8,0,0,,,10,,4,,4,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,7,14,2,2,,,16,,6,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,4,8,0,0,,,8,,1,,2,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,2,2,1,1,,,5,,3,,1,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,0,3,0,0,,,0,,2,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,1,3,1,2,,,3,,5,,1,,,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,,2,2,1,1,,,5,,0,,1,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,1,5,0,0,,,2,,1,,1,,,,0
+stat,hteam,player,larry-hollyfield-1,Larry,Hollyfield,,0,1,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,46,88,15,17,,,107,,53,,18,,,,2,0
+linescore,hteam,63,44,:,107
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,03/13/1971
+info,dayofweek,Saturday
+info,rteam,USC Trojans
+info,hteam,UCLA Bruins
+info,title,
+info,arena,Pauley Pavilion
+info,city,Los Angeles
+info,state,California
+info,country,United States
+info,attendance,12875
+info,ref,Ernie Filiberti
+info,ref,Richard Wader
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,bob-boyd-1,Bob,Boyd,0
+stat,rteam,player,joe-mackey-99,Joe,Mackey,,3,6,2,2,,,8,,2,,3,,,,0
+stat,rteam,player,chris-schrobilgen-99,Chris,Schrobilgen,,2,4,1,1,,,5,,2,,3,,,,0
+stat,rteam,player,ron-riley-99,Ron,Riley,,4,10,3,3,,,11,,20,,2,,,,0
+stat,rteam,player,paul-westphal-99,Paul,Westphal,,5,12,3,5,,,13,,3,,2,,,,0
+stat,rteam,player,dennis-layton-99,Dennis,Layton,,6,19,3,4,,,15,,6,,4,,,,0
+stat,rteam,player,monroe-nash-99,Monroe,Nash,,0,3,0,0,,,0,,1,,1,,,,0
+stat,rteam,player,dana-pagett-99,Dana,Pagett,,0,0,2,3,,,2,,2,,1,,,,0
+stat,rteam,player,george-watson-99,George,Watson,,3,9,0,0,,,6,,5,,2,,,,0
+stat,rteam,player,leroy-cobb-99,Leroy,Cobb,,1,1,0,0,,,2,,0,,1,,,,0
+tstat,rteam,,24,64,14,18,,,62,,45,,19,,,,4,0
+linescore,rteam,21,41,:,62
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,6,11,3,9,,,15,,14,,0,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,5,15,3,4,,,13,,7,,3,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,5,13,2,3,,,12,,10,,3,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,3,6,4,4,,,10,,4,,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,1,9,3,5,,,5,,2,,3,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,5,8,2,2,,,12,,2,,2,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,1,2,0,2,,,2,,2,,1,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,0,2,2,,,2,,1,,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,1,1,0,0,,,2,,0,,0,,,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,,0,0,0,0,,,0,,0,,0,,,,0
+tstat,hteam,,27,65,19,31,,,73,,51,,14,,,,9,0
+linescore,hteam,40,33,:,73
+sources,Los Angeles Times
+
+
+gamebxt
+version,1
+info,date,03/18/1971
+info,dayofweek,Thursday
+info,rteam,Brigham Young Cougars
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA West Regional Semifinal
+info,arena,Special Events Center
+info,city,Salt Lake City
+info,state,Utah
+info,country,United States
+info,attendance,15032
+info,ref,Art White
+info,ref,George Strauthers
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,stan-watts-1,Stan,Watts,0
+stat,rteam,player,steve-kelly-99,Steve,Kelly,,9,16,6,6,,,24,,5,2,1,,,,0
+stat,rteam,player,kresimir-cosic-99,Kresimir,Cosic,,8,18,2,2,,,18,,23,5,3,,,,0
+stat,rteam,player,bernie-fryer-99,Bernie,Fryer,,8,19,2,6,,,18,,4,6,3,,,,0
+stat,rteam,player,jim-miller-99,Jim,Miller,,4,11,2,5,,,10,,5,1,3,,,,0
+stat,rteam,player,phil-tollestrup-99,Phil,Tollestrup,,0,3,1,2,,,1,,1,2,2,,,,0
+stat,rteam,player,jay-bunker-99,Jay,Bunker,,1,3,0,0,,,2,,5,4,4,,,,0
+stat,rteam,player,dave-bailey-99,Dave,Bailey,,0,1,0,0,,,0,,0,0,1,,,,0
+stat,rteam,player,craig-jorgensen-99,Craig,Jorgensen,,0,1,0,0,,,0,,1,0,0,,,,0
+stat,rteam,player,kalevi-sarkalahti-99,Kalevi,Sarkalahti,,0,0,0,0,,,0,,0,0,0,,,,0
+tstat,rteam,,30,72,13,21,,,73,,44,20,17,,,,,0
+linescore,rteam,32,41,:,73
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,6,13,3,3,,,15,,9,4,3,,,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,6,16,2,5,,,14,,20,1,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,6,13,1,3,,,13,,11,4,4,,,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,5,11,3,6,,,13,,9,6,0,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,2,6,0,0,,,4,,1,1,2,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,6,13,0,2,,,12,,6,3,3,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,5,9,1,3,,,11,,6,1,0,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,3,4,1,1,,,7,,0,0,0,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,1,3,0,0,,,2,,0,0,0,,,,0
+tstat,hteam,,40,88,11,23,,,91,,62,20,13,,,,,0
+linescore,hteam,41,50,:,91
+sources,Los Angeles Times & Sports Reference
+
+gamebxt
+version,1
+info,date,03/20/1971
+info,dayofweek,Saturday
+info,rteam,Long Beach State 49ers
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA West Regional Final
+info,arena,Special Events Center
+info,city,Salt Lake City
+info,state,Utah
+info,country,United States
+info,attendance,14003
+info,ref,George Strauthers
+info,ref,Mike White
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,jerry-tarkanian-1,Jerry,Tarkanian,0
+stat,rteam,player,ed-ratleff-99,Ed,Ratleff,,8,14,2,4,,,18,,4,2,5,,,,0
+stat,rteam,player,george-trapp-99,George,Trapp,,5,13,5,6,,,15,,16,5,3,,,,0
+stat,rteam,player,chuck-terry-99,Chuck,Terry,,4,4,3,4,,,11,,6,7,3,,,,0
+stat,rteam,player,bob-lynn-99,Bob,Lynn,,3,10,1,3,,,7,,5,0,4,,,,0
+stat,rteam,player,bernard-williams-99,Bernard,Williams,,1,7,0,0,,,2,,4,1,3,,,,0
+stat,rteam,player,dwight-taylor-99,Dwight,Taylor,,0,2,2,4,,,2,,2,0,2,,,,0
+stat,rteam,player,eric-mcwilliams-99,Eric,McWilliams,,0,1,0,0,,,0,,2,2,2,,,,0
+tstat,rteam,,21,51,13,21,,,55,,41,17,22,,,,2,0
+linescore,rteam,31,24,:,55
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,,5,13,8,12,,,18,,15,0,4,,,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,,3,6,6,12,,,12,,12,1,2,,,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,,4,18,3,3,,,11,,6,1,4,,,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,,3,9,0,0,,,6,,3,1,1,,,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,,2,8,1,1,,,5,,5,2,2,,,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,,1,1,2,2,,,4,,0,1,0,,,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,,0,3,1,2,,,1,,4,1,2,,,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,,0,4,0,0,,,0,,2,0,0,,,,0
+stat,hteam,player,john-ecker-2,John,Ecker,,0,0,0,0,,,0,,0,0,1,,,,0
+tstat,hteam,,18,62,21,32,,,57,,51,7,16,,,,4,0
+linescore,hteam,27,30,:,57
+sources,Los Angeles Times & Sports Reference
+
+
+gamebxt
+version,1
+info,date,03/25/1971
+info,dayofweek,Thursday
+info,rteam,Kansas Jayhawks
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA National Semifinal
+info,arena,Astrodome
+info,city,Houston
+info,state,Texas
+info,country,United States
+info,attendance,31428
+info,ref,Art White
+info,ref,Steve Honzo
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,ted-owens-1,Ted,Owens,0
+stat,rteam,player,dave-robisch-99,Dave,Robisch,38,7,19,3,6,,,17,,6,4,3,,2,,0
+stat,rteam,player,bud-stallworth-99,Bud,Stallworth,35,5,10,2,4,,,12,,5,3,5,,2,,0
+stat,rteam,player,pierre-russell-99,Pierre,Russell,34,5,12,2,2,,,12,,4,1,4,,2,,0
+stat,rteam,player,roger-brown-99,Roger,Brown,33,3,8,1,3,,,7,,9,2,4,,1,,0
+stat,rteam,player,aubrey-nash-99,Aubrey,Nash,32,3,9,1,2,,,7,,3,2,1,,3,,0
+stat,rteam,player,bob-kivisto-99,Bob,Kivisto,19,1,1,1,4,,,3,,1,4,2,,1,,0
+stat,rteam,player,mark-williams-99,Mark,Williams,3,0,1,2,2,,,2,,0,0,2,,0,,0
+stat,rteam,player,randy-canfield-99,Randy,Canfield,2,0,0,0,0,,,0,,0,2,1,,0,,0
+stat,rteam,player,greg-douglas-99,Greg,Douglas,2,0,0,0,0,,,0,,1,0,0,,0,,0
+stat,rteam,player,mark-mathews-99,Mark,Mathews,2,0,0,0,0,,,0,,0,0,0,,0,,0
+tstat,rteam,200,24,60,12,23,,,60,,32,18,22,,11,,3,0
+linescore,rteam,25,35,:,60
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,38,5,9,11,13,,,21,,8,3,2,,4,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,38,7,10,2,4,,,16,,15,1,2,,3,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,37,6,9,6,6,,,18,,4,1,3,,1,,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,37,3,11,0,0,,,6,,6,2,2,,4,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,20,1,2,1,2,,,3,,5,6,3,,5,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,17,1,3,0,1,,,2,,0,0,3,,4,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,4,0,0,0,1,,,0,,0,0,0,,0,,0
+stat,hteam,player,larry-farmer-2,Larry,Farmer,3,0,2,0,1,,,0,,2,0,1,,0,,0
+stat,hteam,player,john-ecker-2,John,Ecker,2,0,1,2,2,,,2,,1,0,0,,0,,0
+stat,hteam,player,jon-chapman-1,Jon,Chapman,2,0,0,0,0,,,0,,1,0,2,,1,,0
+stat,hteam,player,andy-hill-1,Andy,Hill,2,0,0,0,0,,,0,,0,0,0,,2,,0
+tstat,hteam,200,23,47,22,30,,,68,,47,13,18,,24,,5,0
+linescore,hteam,32,36,:,68
+sources,Los Angeles Times & Sports Reference
+
+gamebxt
+version,1
+info,date,03/27/1971
+info,dayofweek,Saturday
+info,rteam,Villanova Wildcats
+info,hteam,UCLA Bruins
+info,neutralsite,YES
+info,title,NCAA National Final
+info,arena,Astrodome
+info,city,Houston
+info,state,Texas
+info,country,United States
+info,attendance,31765
+info,ref,Jim Bain
+info,ref,Irv Brown
+info,starttime,00:00PM
+info,timezone,PT
+info,radio,
+info,tv,
+info,note,
+info,prelim,
+info,event,
+coach,rteam,jack-kraft-1,Jack,Kraft,0
+stat,rteam,player,howard-porter-99,Howard,Porter,40,10,21,5,6,,,25,,8,0,1,,1,,0
+stat,rteam,player,clarence-smith-99,Clarence,Smith,40,4,11,1,1,,,9,,2,0,4,,1,,0
+stat,rteam,player,tom-ingelsby-99,Tom,Ingelsby,40,3,9,1,1,,,7,,4,7,2,,0,,0
+stat,rteam,player,chris-ford-99,Chris,Ford,40,0,4,2,3,,,2,,5,10,4,,7,,0
+stat,rteam,player,hank-siemiontkowski-99,Hank,Siemiontkowski,37,9,16,1,2,,,19,,6,0,3,,1,,0
+stat,rteam,player,joe-mcdowell-99,Joe,McDowell,3,0,1,0,0,,,0,,2,1,0,,0,,0
+tstat,rteam,200,26,62,10,13,,,62,,29,18,14,,10,,2,0
+linescore,rteam,37,25,:,62
+coach,hteam,john-wooden-1,John,Wooden,0
+stat,hteam,player,steve-patterson-2,Steve,Patterson,40,13,18,3,5,,,29,,8,4,1,,3,,0
+stat,hteam,player,henry-bibby-1,Henry,Bibby,40,6,12,5,5,,,17,,2,3,1,,1,,0
+stat,hteam,player,curtis-rowe-1,Curtis,Rowe,40,2,3,4,5,,,8,,8,2,0,,4,,0
+stat,hteam,player,sidney-wicks-1,Sidney,Wicks,40,3,7,1,1,,,7,,9,7,2,,3,,0
+stat,hteam,player,kenny-booker-2,Kenny,Booker,5,0,0,0,0,,,0,,0,0,0,,1,,0
+stat,hteam,player,terry-schofield-1,Terry,Schofield,26,3,9,0,0,,,6,,1,4,4,,0,,0
+stat,hteam,player,rick-betchley-1,Rick,Betchley,9,0,0,1,2,,,1,,1,0,1,,1,,0
+tstat,hteam,200,27,49,14,18,,,68,,34,20,9,,13,,5,0
+linescore,hteam,45,23,:,68
+sources,Los Angeles Times and Sports Reference
